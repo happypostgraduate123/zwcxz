@@ -31,7 +31,9 @@ def info_len(s: str) -> int:
     # 0724： 暂时放弃上面的做法，因为LLM好像不会对空格等特殊字符进行处理，所以我们以为的短文本，会让LLM超出长度限制。
     return len(s)
 
-def split_by_line(CHUNK_SIZE: int) -> Callable[[str], List[str]]:
+def split_by_line(CHUNK_SIZE: int,
+                  overlap: int) -> Callable[[str], List[str]]:
+    assert CHUNK_SIZE > overlap, "CHUNK_SIZE should be larger than overlap."
     def split(text: str, CHUNK_SIZE: int = CHUNK_SIZE) -> List[str]:
         """自定义的文本分割函数，按行分割并拼接文本块。
         
@@ -50,14 +52,20 @@ def split_by_line(CHUNK_SIZE: int) -> Callable[[str], List[str]]:
             if info_len(current_block + block + '\n') <= CHUNK_SIZE:
                 current_block += block + '\n'
             else:
-                result.append(current_block)
-                current_block = block + '\n'
+                if current_block:
+                    result.append(current_block)
+                    overlap_block = current_block[-overlap:] if info_len(current_block) > overlap else current_block
+                    current_block = overlap_block + block + '\n'
+                else:
+                    current_block = block + '\n'
         if current_block:
             result.append(current_block)
         return result
     return split
 
-def build_SentenceWindowNodeParser(chunk_size: int = 500, window_size: int = 3) -> SentenceWindowNodeParser:
+def build_SentenceWindowNodeParser(chunk_size: int = 500,
+                                   overlap: int = 200,
+                                   window_size: int = 3) -> SentenceWindowNodeParser:
     """构建一个基于行分割的 SentenceWindowNodeParser。
 
     Args:
@@ -68,7 +76,7 @@ def build_SentenceWindowNodeParser(chunk_size: int = 500, window_size: int = 3) 
         SentenceWindowNodeParser: 返回的 node_parser。
     """
     return SentenceWindowNodeParser.from_defaults(
-        sentence_splitter=split_by_line(chunk_size),
+        sentence_splitter=split_by_line(chunk_size, overlap),
         window_size=window_size,
         window_metadata_key='window',
         original_text_metadata_key='original_sentence')
@@ -124,6 +132,7 @@ class Docs_Nodes:
     def build_node_parser(self):
         if self.node_parser_name == "sentenswindows":
             node_parser = build_SentenceWindowNodeParser(chunk_size=self.chunk_size,
+                                                         overlap=self.overlap,
                                                          window_size=self.window_size)
             print("Building SentenceWindowNodeParser with chunk_size: {} and window_size: {}".format(self.chunk_size,
                                                                                                      self.window_size))

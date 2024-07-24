@@ -39,7 +39,7 @@ if __name__ == "__main__":
                         help="Debug query source 文件路径")
     parser.add_argument('--submit_query_path', type=str, default='./questions/question.jsonl',
                         help="需要submit的query文件路径")
-    parser.add_argument('--cache_path', type=str, default='./cache/2024-07-23-exp_name-1',
+    parser.add_argument('--cache_path', type=str, default=None,
                         help="所需的cache文件路径")
     parser.add_argument('--max_retrieval_num', type=int, default=15,
                         help="最多使用的检索结果数量")

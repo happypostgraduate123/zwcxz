@@ -59,7 +59,7 @@ if __name__ == "__main__":
                         help="The parser of the nodes, can be simple or sentenswindows")
     parser.add_argument('--chunk_size', type=int, default=300)
     parser.add_argument('--window_size', type=int, default=1)
-    parser.add_argument('--overlap', type=int, default=300)
+    parser.add_argument('--overlap', type=int, default=150)
     parser.add_argument('--emb_model_path', type=str, default='./maidalun/bce-embedding-base_v1')
     parser.add_argument('--emb_batch_size', type=int, default=256)
     parser.add_argument('--rr_model_path', type=str, default='./maidalun/bce-reranker-base_v1')
