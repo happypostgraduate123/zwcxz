@@ -1,0 +1,9448 @@
+path MTU
+CPU负荷一级
+Context Response
+当前记录数
+会话下线
+UME系统
+最大下行请求带宽
+恐怖事件
+CDAP
+auto load control
+调整
+发送
+ACTIVE REBALANC QUERY
+C559000044
+slab
+系统扩容
+TIMRNAME
+FQDN优先
+有效期
+summary
+IPV6
+VNFM HTTPS管理
+DEREG_TYPE
+表
+回滚
+DEL LOADSAMPLE
+MSGTHRESHOLD
+定向套餐
+3gppnetwork.org
+C405110008
+PCF配置TAAS部署
+MT信令
+防御状态
+网元许可证管理
+ENDPORT
+新增通用IMS APN配置
+过负荷
+unknown
+C405150013
+IP协议栈配置数据
+Policy
+模板编号
+match dscp range
+对象名
+描述符回收配置
+自动触发
+N14接口请求
+SOAP IP地址
+triggerTimestamp
+告警配置
+NFS_MME5SSGN_0
+AMF设备
+EBIALLOCCOLLISION
+功能开关
+TIMRLEN
+INFOPOLICY
+PIM模式
+query-interval
+出向业务请求
+公众预警系统
+更新数据包
+N1模式
+AMF局间消息
+C405810039
+小区信息
+Routing Context
+C558550044
+Npcf_AMPolicyControl_Delete_Res
+failedPushTime
+C405090006
+原始公钥
+异网SEPP
+SC内弹性链路开关
+事件总数
+危险操作确认对话框
+基础设施层
+Policy Color
+区域编码
+执行成功耗时
+C405510044
+MLD v2
+初始注册流程
+MME POOL
+SHOW NRF INFO
+access-IP-source
+二层协议
+扩展业务请求次数
+SC类型
+显示以太接口列表
+图层
+MEP数据
+OMU虚机
+最优网络性能
+Configured NSSAI
+业务网元
+编号
+show ntp status
+事件处理成功
+参数配置
+新增优先级模板配置
+生效时间
+VRU
+服务范围组编号配置
+以太子接口模式
+Ping检测任务
+MAP ERROR
+超时
+链路编号
+CHF邻接主机测量
+跳转
+scp fail
+HSS侧
+ZTE
+移动网络码
+EXPOSURE
+REGCONFLICTN1N2
+指定域名信息
+Host Aggregate
+时间信息
+业务管道内容
+MPPP头格式
+运营商标识符
+集中自定义处理建议
+千兆以太接口模式
+宿主机
+C432010065
+UE上下文传输
+输出参数
+MMEI
+Iu释放消息
+源侧AMF
+协议模块
+starting
+CONNECTION
+IPv4v6
+消息号
+攻击
+复制
+TAP Service
+操作成功率
+SHOW SCTP
+by-access-list
+PDP激活拒绝消息
+移动限制列表
+Nnssf_NSSelection_Get_Response
+Rx接口绑定失败后的处理动作
+服务区
+3级路由编号
+修改定时任务
+S11口
+删除PGW
+O位
+Discard
+对接互通
+重选
+无线资源管理
+C510050070
+平台计数器列表
+系统复位
+业务消息流量
+PS Service Not Available
+Nfs_List
+默认虚机规格
+Message not compatible
+网络ID
+maximum segment size
+数据网络
+configure terminal automatic
+用户位置信息
+任务列表
+complete
+QFI容器序号
+DELETE请求
+NID
+系统对象集合
+应急处理技能
+clock-seq-and-reserved
+sent
+querier
+EM网管
+Over
+跨RAT切换
+C405150034
+GGSN IP地址
+95~111
+Update Bearer Request
+ipsec-transport-index
+Configuration
+SD
+评价样本数量
+LDAP/LDAPS
+管理员角色
+任务组
+切换消息
+BACKUP:ID=1
+后台导出
+Online KnowledgeBase
+ADD ENB RNC
+容灾恢复策略
+PDU Session Resource to Release List
+SET IPTRIPLETUPLE
+SOAP接入局
+StreamCongestion
+Npcf_PolicyAuthorization_Update
+完整率
+5XX响应数
+主键
+IPv6
+sc-tmsp-mgt-0-0-1-1
+M3UA
+节点组
+重新建立承载
+S1切换
+EREAN
+HR漫游方式
+5gc
+服务器信息
+配置数据库
+VMM部署VRU失败
+Back-Off Time
+ROAMLOGPLY
+系统架构
+neighbor
+23.503
+eNB Configuration Transfer
+pub-label
+时间跨度
+接收次数
+Leaf Tunnel
+类型
+notification
+单播路由
+容灾策略
+已连接
+修改NRF服务器节点配置
+晚宴
+CAMEL
+UPSC
+PPP
+查询服务区域编码配置
+局交换机
+NF服务消费者
+503失败
+DEL SOAPACC
+NF
+DSTPORT
+Update GPRS Location Request
+CN NF维护
+平均值
+重定向
+DEL SBIGMLCINFO
+2B物联网
+成功响应数量
+Transfer
+万用表
+OAuth
+QoS流
+SBIDNNARRPARAM
+成功率
+Iu过载控制参数
+中断正常
+N1N2RLSCONFLICTHO
+参数名称
+GTP-C
+管理地址配置
+X2口
+SGsAP
+SWITCH_ON
+SET NAS INTEGCTRL
+收集
+套餐名称
+流量过负荷控制功能
+告警码名称
+DEL ALLOWEDNSSAIS
+归属优先级模板组标识
+SHOW USGROUND
+AF应用标识
+以太网接口
+Presence requirement
+SOAPSERVID
+Connected
+C405540025
+ADD SBIPLMNSNSSAI
+互操作注册失败次数
+通信链路异常
+非本网NF
+端用户
+trigger-delay
+NSI组
+本局信令地址
+C556050018
+FTU
+非GBR类型
+分片类型
+报文使用率二级告警门限
+过滤规则编号
+本地地址类型
+MBMS
+失败应答次数
+Hold时间
+mocName
+局间Gb接入
+寻呼
+链路异常
+缺失的License项
+局内SRNS重定位请求次数
+SHOW SBIDOMAINARRID
+eHRPD
+TigOC
+备份任务
+DNS解析
+总容量(GB)
+SBIIPV4ADDRARRID
+端口出向带宽
+Delete Bearer Request
+Access Point Name
+字符型
+网络物理连接
+C430010075
+容灾倒换
+备份并删除
+CS only
+commit-mode
+destination-minimum-mask
+OCINFNUM
+业务用户指示语
+Restore
+DIAMETER_UNKNOWN_SESSION_ID
+系统负荷
+用户平面
+RAN Node Name
+设备型号
+入向负荷控制
+接口认证配置
+FTP工具
+vrf-name
+FAR ID
+请求数
+历史报告
+通知
+通信设备制造商
+SCP_OFF
+接入配置类型
+CHF主机配置
+URSP
+局间注册流程
+ULP模块
+Target MME
+SUPIROAMINGPOLICY
+配置编号
+功能按钮
+IPv4 Internet
+C510520052
+通讯线路故障
+匹配
+Radius认证
+不限制
+失败应答消息
+Network Slice Instance
+Neighbor
+文档支持邮箱
+Mandatory
+会话管理流程
+APN接入控制
+VLAN模式
+DEL DEFAULT CONFIG SNSSAI ID
+名称:SNSSAI标识
+TARGETNFTYPE
+全局切片信息
+activate PDP context accept
+Receive
+NF集标识组编号
+有效期间
+suspend
+配置模式
+RAU流程
+TA编组
+C539020007
+UTC+08:00
+版本类型
+网络时间
+支持区域限制
+Npcf_UEPolicyControl_UpdateNotify_Res
+PLMN13
+同步
+EMCBSPLY
+目的邻接局号
+耗时
+MB
+RTTYPE1
+基本配置数据
+route
+紧急业务SNSSAI配置
+定时判断
+policy-map-name
+网管操作记录页面
+Message type non-existent
+access-list-or-prefix-list
+ZONE
+记录缓存
+确认用户
+AM策略关联
+字符串参数范围
+SHOW GLOBALPARAMETER
+终端鉴权失败
+会话建立
+threshold
+DOMAIN
+Virtualized Network Function
+容灾模式
+C405810034
+名称:校内基站识别码配置编号
+安全相关参数
+AOI
+SMFGLOBAL
+GBase
+黑名单标记
+Npcf_SMPolicyControl_Update_Res
+Suspend流程
+Gn/Gp口
+bps
+分片区分
+解闭塞
+调测信息采集
+METHOD4
+二次同步
+Nausf_UEAuthentication_Authenticate
+DEL TNLACFG
+OC
+报文描述符使用率
+PIM-SM协议
+C559170034
+承载激活流程
+Paging
+SET DRA命令
+N2
+检索策略
+命令模式
+C464070010
+长度截断包
+TrustPlane68
+Bypass
+WAITTIME
+Balancing
+C510280006
+atm-cell-vcc
+GSUIP
+CGF
+JUDGEPERCENT
+Namf_Communication_N1N2MessageTransfer
+bit
+资源类型
+root用户
+12-TA不允许
+BE 1+1部署
+Service Area
+映射
+拒绝原因码
+定时器超时
+策略路由
+nominal freq
+N3下行链路
+ZXUN uMAC-SGSN
+网络单元
+token用户
+8021p
+Namf_Communication
+交换机
+报文
+事务数据区
+Route target
+本地配置匹配
+SCNAME
+C405070317
+defence
+期望最大时延
+RAT限制策略模板ID
+备份
+时区偏移量
+GTP
+RAN UE NGAP ID
+B200
+3506438147
+Hypertext Transfer Protocol Load Balancing
+Iu口
+拒绝方式模板标识
+SOAP消息
+update pkt block
+LLC层
+UDM信息配置
+SMSC
+public-key
+查询Sv到S1口切换失败原因映射配置
+IMEI灰名单日志
+网元类型开关
+C556160004
+localpref
+PD
+Mobility
+C405690059
+用户IP地址
+有效时间段
+前台
+请求个数
+PSK集名
+告警清除
+0x9
+非EPS鉴权
+CHFHOST
+S6a接口
+网管
+C405060006
+操作语义
+dot1q
+C510670003
+crypto ipsec reallocate
+局向流控
+峰值用户数量
+address-family
+no pimdm-reg
+告警管理页面
+GTP V1
+自然灾害
+配置工具
+云环境
+Unsubscribe
+会话ID
+NI
+Npcf_AMPolicyControl_Delete
+NRFClient
+Resonse消息
+dscp
+Modify Bearer Request
+id
+一致性检查
+DISABLE
+Interworking-5GS-Indicator
+高级管理
+对象
+信令测量
+鉴权成功日志
+23G网络
+0755-26770800
+defratrespolicy
+cause值
+HighLevelUser
+查询路由区区域编码配置
+PCF_25_R1_XH
+Session
+响应次数
+NGAP ID
+PRB保留策略
+接收参数域错误消息
+CCMF
+CANCEL
+SGWRSTOFLAG
+LDP
+系统过载
+Activate
+安全密钥
+TAI组编号
+组织管理员
+建立失败
+AKA
+LDSH
+MDSEXTERNALNE
+failedPushInterval
+lifetime
+Attach流程
+SGSN原因
+replication_req
+数据消息
+IP规划
+紧急业务回落
+SCTP数据
+双栈
+snpnList数组
+DH
+消费者NF
+建链请求
+别名
+最大接收字节速率
+四级告警门限配置
+TYPE
+主机
+工单
+SUBSCRIPTION_ID_ADDITION
+DEL GTTI
+时区维护
+连接状态
+Discard(Service Control)
+日志
+服务器ID
+REDEPLOY VRU
+SOAPACC
+LCI
+NSSF相关
+C405850002
+发送次数
+SHOW QUORUM VM
+samgr
+L1 bis
+互通
+N2接口过载控制
+REJECTPF
+负荷控制
+7号信令网络
+离线数据传送
+TCP建链重试次数
+缺省配置
+3490709539
+用户管理
+EIR原因
+AM数据配置
+Extern Network PortIpList
+GNB
+C405510063
+保护方案
+告警描述
+Authentication
+VRF ID
+自动部署工具
+CPU高拥塞门限
+LOCALVRF
+transmit_service_req
+注册请求次数
+信元错误
+SET SUP PGW GGSNIP
+SHOW SBIPLMNSNSSAI
+承载方式
+AVP相关匹配方法类型编号3
+分级告警功能
+例行维护
+命令举例
+C431080009
+计算完整率
+Check IMEI Ack
+MUU
+上传
+分区
+C405870017
+VM仲裁服务管理
+不停地尝试
+instance
+加密配置
+回放
+ALCAP
+RESELIFDEDSMFFAIL
+Operator Identifier
+MPLS-TE模式
+LocalNRF
+REGAREANAME
+Service
+配置TFTPD
+未知设备
+Request/Response
+用户来源
+局域网
+Binding功能
+262463
+17
+N26口
+终端类型
+批量删除定时任务
+releasedEbiList
+CAMEL检查释放
+初始注册成功率
+last-member-query-interval
+病毒木马
+BLACK
+REGAREAID
+位置更新
+CSFB流程
+文件转换单元
+网络扩容
+EM
+SBINFSETIDARRID
+NF1
+手动提交
+ZTE-KU5200
+SHOW MHS PARA
+业务提供商
+Subscribe
+网络异常
+待选项列表
+NL2
+INDEX
+PTI在用
+MLD
+RAT限制策略
+Namf_Communication_N1N2MessageTransfer_Res
+事件ID
+消息节流
+Released
+DNS解析请求次数
+输入空闲超时时间
+联合
+C405110028
+DNS server
+nd6
+精细化运营
+默认签约APN带宽配置编号
+SHOW SBICAUSECODEPFID
+N2连接
+查询测量任务
+虚拟化技术
+激活成功
+SHOW LINK INFO
+overload
+2114060323
+对等点
+用户会话数据
+控制项名称
+C405070339
+查询测量对象
+FRR
+PDN Connectivity Accept
+告警样例
+CG PLMN
+变更类型
+长网络名称
+C520220038
+1级路由类型
+对象范围
+备份任务名称
+主备倒换
+LICVALUE
+Cloud Native
+对端协商
+着装要求
+weight
+SHOW SERVERSECPARAM
+Delivery Order控制配置
+LMI
+路由地址信息
+默认LIPA承载
+ADDRPOOLID
+容灾RCP
+确认时间
+持续时间
+PUT
+接口down
+服务数据流
+卸载详细信息
+SBITACRANGEARRID
+删除请求消息
+短消息始呼
+one-minute
+C464050002
+查询计数器
+个人数据隐私
+取消订单
+对端NFProfile
+Change Notification Request
+SHOW NIFRT
+用户下
+LGGSN
+IP_MATCH_PREFER
+短网络名称
+PvidPorts
+终止时间
+Illegal ME
+流量端点
+快速恢复
+GMLC
+微服务
+C405780037
+增加/删除行
+pre-shared-key
+DEL SBINRFNODE
+系统默认值
+REGISTRATION REJECT
+N11保序表
+get_ne_groups
+接口故障
+热备容灾局配置
+NULLSGSNMME
+拒绝策略模板标识
+接通率
+角色描述信息
+CMP实例号
+ADD DCN MME WEIGHT
+NSI配置
+NAS信令
+VMTYPE
+局间信令系统
+HLR失败
+团体串
+容器名
+C100030004
+黑名单
+AUTHENTICATION
+租户ID
+DesAlarmL1Rate
+流镜像
+Compound操作
+IMSI
+受控项编号
+HTTP客户端模板编号
+Caused Code 50
+单一网络切片选择协助信息
+无线侧原因
+服务操作
+SC信息查询管理
+%
+Retry-After
+TENANTID
+VLR
+waittime
+承载
+抢占能力
+释放结果信息
+SSH
+AS安全
+SERVERPROFILE
+SHOW PCFLOCALADDRPOOL
+数据能力
+时区管理
+RTID2
+接口三层IPv4检测状态Down
+发生时间
+HTTP响应状态码
+秒级测量
+备份对象
+配置命令
+开启密码确认
+SHOW SBIDNNARRID
+C430110001
+请求字节数
+SBIPLMNNIDARRPARAM
+共享专用网号
+Public Warning System
+SC弹缩
+QoS映射策略
+响应码
+安全需求
+PBR
+电源插座开关
+严重
+SCOUT
+故障测试
+删除过滤方式
+Routing Area Update Request
+C432010106
+SUPID
+sr-policy
+vAMF
+C430150045
+业务数据
+账号
+ID配置
+0x8
+ARP列表
+LDN
+Complete
+网元数据
+完全共享
+C513010054
+ausf
+C510550014
+路由表项
+操作
+C405060133
+primaryratrstply
+服务名
+Network
+Update Duplicating Parameters
+Session Update Request
+201
+删除路由指示组编号配置
+PDU Session Establishment Request
+ASP Active
+debug lldp packets receive
+全局的二层优先级
+RATRESACQPOLICY_SUB
+308 Redirect
+vrf
+设置支持GGSN
+父主题
+源端口号
+未知会话标识
+87 SBI消息
+LLD文件
+VxLAN
+申请VDC
+应用管理
+C520020068
+隧道源地址
+Path
+SUPSELDEDSMF
+号段选择
+连接重试
+动态策略控制
+容灾建设
+HTTPS信息
+LUDT
+SET VMTHRESHOLD
+配置更改通知消息
+服务器
+5GMmCapability
+IPv6-OSPF模式
+SHOW SIGIP GTPC
+MsgSend
+Dangerous_Command_config
+每页显示条数
+Rx会话
+接口信息
+回落
+mrIuReleaseReq_M
+C464080068
+备选DNN
+Data
+承载网络
+C430100009
+RAU
+网管客户端
+切换过程
+无线资源分配
+GMLC发现请求
+确定按钮
+接口报文统计计数
+N1N2TRANSCOLLISION
+调测
+Host Aggregate Name
+SHOW SBISRVDISCOVERYMODEPROFILE
+process
+seq
+低过载
+end-policy
+TUP
+C558530032
+Compound请求数量
+新增跟踪区区域编码配置
+以太接口
+注册拒绝消息
+AMF名称
+C510040023
+地址族
+REPLICAID
+附录C
+smfUri
+ZTE Corporation
+ST_OAM_SMF_160
+C559000005
+MSISDN
+查询性能指标
+备份配置数据
+config-vlan-if-gei-0/1/0/1.1
+Windows
+专业术语
+SmContextCreateError
+N6接口
+批量修改用户密码
+监听端口
+NOSPRT
+新增
+Reject
+剩余可用量
+消息码匹配
+删除NF标识配置
+Reset
+KB
+LINKID
+ISSU
+request
+MT服务
+计数器映射表
+taGroupId
+Procedure Transaction Identity
+物理机端口
+协议错误未指定
+条件
+滤波器
+C558530067
+CONTEXT
+AVP相关匹配方法类型编号4
+差错消息
+ASP DOWN
+资源分配成功
+NormalUser
+POPSRV
+侦听端口
+0-128
+DEL SBIPLMNSNSSAI
+节省资源
+修改双连接RAT限制策略模板配置
+NEF
+COMPOUND请求
+DURWAITREGUPD
+TSC标记
+入向业务总量控制
+ETWS
+Offset
+处理失败
+FAR
+删除IPv6地址组编号配置
+NF服务集标识组编号
+SAR-Flags
+LSP保护组
+服务实例
+C520210082
+寻呼成功次数
+S-NSSAI标识
+CSP5BC13EZX
+Community
+TAI Slice Support List
+APNID
+专有承载
+C405130022
+数目
+SBIPLMNIDARRID
+时间戳
+DNS查询失败日志
+服务端PSK集配置
+大写字母
+路由type
+SGW控制面地址
+SOAP服务器
+SET MME SERVICE CONTROL
+HLR ID列表
+length
+SGsAP-DOWNLINK-UNITDATA
+用户面数据报文
+对端网元类型
+Service Unavailable
+上下行流量总和
+savetime
+NFS
+EBGP
+C510280032
+云管理
+局间跟踪区更新
+小时
+动作参数
+CONTROL
+flow
+ADD GTTI
+领域管理员
+POD名称
+hardware-address
+参数作用
+移动性注册请求
+Available Zone Name
+ID请求消息
+系统运行异常
+Expire
+通讯标识
+Nupf_PacketForward_0
+SET SGSN IMSI AUTH
+文本框
+PoV
+idle态用户
+切换取消
+GREAN
+增加自动备份策略
+config-mppp
+子接口别名
+制作日期
+Consumer
+forwarding-table
+计费域
+NF类型
+Control
+增加默认签约APN带宽
+PDN连接流程
+恢复门限
+DNN UPF信息组参数配置
+METHOD1
+Npcf_SMPolicyControl_UpdateNotify
+METHODTYPE4
+Radio Status
+invalid CSG Id
+策略
+最大历史周期
+数据包类型
+S-NSSAI配置
+开源软件
+PLMN Identity
+业务请求拒绝消息
+实例
+附着拒绝消息
+SHOW LICENSE
+Point to Point Protocol over Ethernet
+取值范围
+R98
+0~65535
+服务请求类
+修改|删除|更多
+3305132146
+序列号
+sc-upf-pf
+ULCL
+用户条目
+本地管理距离
+SHOW VMTHRESHOLD
+snooping
+Tracking Area Identity
+DEL USELESSPKG
+C405810057
+接入失败
+RAA
+Bearer Resource Allocation Request
+SBIIPV6ADDRARRID
+更新请求消息
+用户CSG信息
+NR
+Combo MME/Gp SG
+新增TAI范围组参数配置
+命令功能
+表容量
+TMSP平台
+短消息终呼
+隐藏链路
+快速发现
+ADD SUPI CONFIG SNSSAIID LIST
+业务消息
+INTERAMF
+自动添加CPU
+Detach Request
+漫游PLMN VoLTE接入方式配置
+HTTP/2
+ZXUN uMAC-AMF
+SSH服务器类型
+参数域错误
+适用网元
+发现参数
+xml
+VNFM IP地址
+Mobile Network Code
+分区标识
+gNB
+Modify PDP context accept
+更新通知
+RtPrf
+Id
+Responder-only
+EVPN
+dualratrstprofileid
+HOST配置
+参数解释
+C464050001
+一级过负荷
+业务策略参数
+C405180016
+cbs
+上下文健康检查
+SHOW IP COLORING RULE
+Npcf_AMPolicyControl_Create_Res
+网络故障
+C510630100
+路由信息
+N12接口
+采集周期
+mMTC
+spool buf
+网管系统告警
+DEL SBINFTYPEARRID
+在线非PCC用户数
+子图层
+Diameter链路
+不一致
+MMERSTOFLAG
+网元编辑
+本地EM
+磁阵
+SBIIPV6PREFIXRANGEARRPARAM
+distance
+HSS链路
+SRNS
+per-EVI
+identity
+Npcf_PolicyManagement_0
+门户URL
+获取当前位置信息
+ipipv6
+context
+Diameter链路号
+PATCH
+位置名称
+配置数据
+紧急注册失败次数
+pimsm
+INTIALREG
+字典密码
+Nnrf_NFDiscovery_Request
+NSEI
+IP地址
+释放会话请求
+Primary RAT限制策略
+备份MME
+P-CSCF
+204 No Content
+SBINFSSETIDARRID
+GGSN
+CAMEL拒绝
+tag
+使能MPPP头格式
+差分服务代码点
+NPDB
+NF类型组参数配置
+测试阶段
+GBR类型
+网络原因
+Linux
+modulus
+/ubas/ZXUN-EMSPLUS/server/fileupload
+sequence
+sr_policy_key
+PROFILE
+Npcf_PolicyAuthorization_Unsubscribe_Res
+路由器
+RSVP-TE
+MGMT消息
+删除metric配置
+httpCode
+源AMF
+其他事项
+紧急呼叫业务
+262460
+紧急号码
+Gbase数据库
+消息类型不存在
+测量点
+80%
+ORM
+0x11
+SHOW NASRESENDTIMES
+PASS
+P-CSCF恢复通知
+TA
+丢包问题
+SBI接口
+本地保存
+NOT_PREEMPT
+Summary
+SERVICE REJECT
+C510630234
+HTTP_404
+中兴通讯
+关闭
+PVC
+SETID
+pLMMId
+6in4
+SSH Public-key
+C430040064
+CheckSwitch
+取消原因值
+C405870039
+Range
+接收报文
+ZUF-77-17-002
+Iu口接入
+话务量
+ADD DM USGBASE
+FULLUSEBIT7
+用户
+DELETE
+警告消息
+Transform-sets
+标准协议
+UDSA
+uniportal
+3305118001
+Hadoop
+ipsec
+onehcon
+POWERONTIME
+卸载用户数
+定位问题
+故障定位
+C510010078
+网络安全
+TCP ping sever
+DNS QUERY ACK
+登录空闲超时时间
+转发
+流控开关
+key-set
+PIM接口模式
+N7会话
+Backup&Restore
+本地GGSN配置
+NETTYPE
+前缀列表配置标记
+SHOW SGSROUTEGRPSTATUS
+PLMN_OPERATOR_ANONYMOUS_STATISTICS
+间隔时长
+1040
+共享gNB
+报文丢包总数
+NF扩展信息配置
+映射关系
+ADD DUALCONNRATRSTPLYPRO
+log
+NF配置
+鉴权MAC失败次数
+sr-iov
+packaging
+车联网
+write
+CARRYNI
+NOR
+TIMESTAMP
+get_ne_list
+Buffers
+映射配置
+计划性移除操作
+伪线保护组
+CDN2
+groupname
+C510630116
+ipv4Addresses
+网络侧多DNN会话功能
+客户端
+Curve
+对端SCTP模块
+建设地点
+SDN
+系统时间
+横向攻击
+业务处理
+static te_tunnel1
+地址端口
+TECS Director
+业务告警
+C510050005
+业务请求
+Slice Differentiator
+用户流量消费
+DALOCSFTPSRV
+MME测量
+2-6
+命中缓存
+Bearer
+自动查询
+BGP in debugging
+业务质量
+GW-U
+uplinkVolume
+系统内MME间
+专网
+DNN Replacement配置
+minimum-member
+预警信息
+规则支持
+ZXR10
+SOAP接入局配置
+5GMM Cause
+资源配置
+PGWNAME
+RST标志
+控制开关
+vCPU
+高危命令管控配置
+注册注销响应时长
+NFS配置数据
+区域内用户数报告事件
+HTTP 503
+Jieba
+Wait Response Timer
+颗粒
+局向信息
+1级路由编号
+新建指标
+偶联断链
+历史周期
+测量触发点
+percentage
+nbr
+DESCRIPTION
+NOTSUPPORT
+Diameter路由不可用
+Refresh消息
+SMSF
+C430200005
+命令参数解释
+分片
+引用
+JSON文本
+.pcap
+删除服务端PSK集配置
+随心钻取分析
+clear arp statistics
+ipAddr
+VNF部署
+点分隔
+对象汇总
+中兴通讯技术支持
+smartgroup2
+发送UE策略关联更新应答次数
+静态RP
+标识:ID
+业务
+3305242917
+过期预警
+SHOW DIAMLINKGROUP
+无线侧失败
+home NSSF
+自动续费
+重选策略配置
+gw1
+鉴权
+上行数据包
+ACCESS_TOKEN_DENIED
+订购数据库审计
+N_M(Pool)
+REQUEST
+Cause Code 96
+网络质量
+SET PROCCOLLISIONPOLICY
+采集方式
+NOT_PREEMPTABLE
+NID组编号配置
+SET MMEIPLOC
+Accept
+链路中断
+网络业务实体
+sNssai-Tai-AMFSet映射配置
+移动始发短消息
+PLMN粒度
+ZUF-76-07-003
+Ingress-Replication
+As path
+tunnel mode
+Mask
+SCCP
+SHORTUSEBIT7
+DNS QUERY REQUEST
+2级路由编号
+MPU
+5012
+Distinguisher
+客户端模板配置
+镜像
+module_xxx
+特殊日志
+SET SBINSIARRPARAM
+邻居认证失败
+End of ribs
+SHOW TIMER
+数据分析
+net_mask
+对应关系记录
+存储资源
+代理转发
+100
+子切片模板
+show cps port-limit
+warning message
+Version
+ipv4
+服务器的等级
+MAN
+防护功能
+SGSN间
+SET TNLACFG
+网元名
+信令点类型
+列
+告警类别
+PCSCFRSTOFLAG
+oneper
+R_SUPCODECLIST
+Deactivate PDP Context Request
+每SC最大链路数
+MESSAGE
+业务前台
+说明
+非结构化数据
+分离类型
+C432030007
+C405930017
+RADIUS模块
+非期望的消息
+MPPP
+路由区名称
+弹性配置
+local-distance
+NF配置文件
+设置为1
+RD
+SRVCC
+安全模式拒绝
+安全配置
+流程成功时间
+Location Request
+C405850004
+L2VPN服务
+IGP
+SET MAPERR GMM
+通用趋势分析
+NRF分组服务器
+移动性更新注册请求消息
+SMS消息
+附加属性配置
+告警音
+枚举
+存储池名
+时长最大取值
+修改基于SUPI号段切片映射配置
+C100030032
+SM策略关联更新通知
+Nudm_EventExposure
+SACK CHUNK
+IPV6前缀范围配置
+failure标记
+计重发
+过载step
+目标RNC
+C520030090
+每秒每实例接收消息数门限
+订单详情
+C430010123
+201 Created
+C405320129
+ssl
+SET MME OVERLOAD PARA
+路由区名
+VCC
+IPADDRESS
+USERLABEL
+REVAL
+地理容灾
+ADD MMESGWLINK
+interface-byname
+E-UTRA
+失败原因码
+INVALID_DISCOVERY_PARAM
+不变切换
+IPv4优先
+CBCF
+mcc
+Tunnel Encapsulation
+metric值
+min-char-set-num
+PAGING TIMEOUT
+flavor
+建立
+组网场景
+synflood-protect
+源列表
+GSM
+SGs语音
+报文字段
+MML命令编辑
+操作维护
+目的GT地址
+Hold time
+BSF_Info
+路由选路优先级
+邻居
+路由更新失败次数
+每秒
+用户投诉
+Without DTM方式
+紧急会话
+跟踪区列表
+对端有效的TEID
+IPADDR
+同步链路
+重分配请求
+get_groupids
+MME权重配置
+TAID
+this
+接入类型
+SBIDNNARRID
+对端网络配置
+通信设备
+guamiId
+DT1
+HTTPLB
+附着总时长
+SHOW AMFLOCALOFFICECFG
+远端
+SmContextCreateData
+ipv4-access-list
+MME与SGW链路配置
+Security
+高危管控命令
+S1AP切换失败原因
+会议时间
+业务匹配规则
+删除AVP
+SC
+N1N2消息传输
+邻居丢失
+服务器解析失败
+mnc
+Operation
+检查和修复
+对端发送差错
+nd
+policy
+系统安装
+协议标准
+广播
+BY
+RA
+Host Aggregate Metadata
+回退
+active
+Insert Subscriber Data Request
+指示
+detect
+匹配效果
+Diameter路由
+LIPA标识
+PLMN
+E-UTRAN
+应用协议
+特权模式
+订阅失败响应次数
+UE会话
+AMFINFO
+MODE
+短信中心
+上报
+不能实现
+网管口令
+消息内容格式错误
+C405180030
+更多
+Add
+IP地址段
+刷新频率
+SR
+PLMN NID
+Create Indirect Data Forwarding Tunnel Response
+入向请求抑制
+SOAP 端口
+MPLS-TE
+定位请求消息
+执行成功
+高危命令
+C405330067
+漫游用户
+CSCF
+故障
+best
+局间注册
+SPU
+收益贡献
+C430150040
+分局
+基础设施
+Sv口切换
+互操作流程
+SHOW SBIPLMNID
+适配层
+获取上次位置信息
+ftp
+S1-MME
+PDU Session Resource Release Command
+eMBB
+老化回收
+Temporary session leg establishment error
+CCR-U
+rekey-interval
+偶联数
+失败中断执行
+外部原因
+报文描述符
+全业务运营
+NotCare
+默认承载数
+隧道信息
+用户永久标识
+流量优化
+SST
+PIM-DM模式
+BIER
+priorityLevel
+local
+方法优先级模板标识
+切换性能统计
+路由集名
+ARRAYID
+Home PLMN
+任务编号
+AMF列表
+通信矩阵
+统计周期
+空方案
+模型数据
+HLR异常
+NF Profile
+crypto ipsec manual-profile
+接收无效的选路上下文
+SGs Voice-UE UNREACHABLE
+分布式存储
+篡改
+SHOW SBINRFPROFILE
+网络切片
+MAP错误码
+源地址
+单位：秒
+IPU
+切片维度
+N2信息通知回调URI
+内部消息兼容
+hplmn切片
+服务器端口
+Current & Last known Location
+Server count
+C520210052
+当前告警库
+启动染色
+路由标志
+兼容性编码
+2G用户数据
+初始注册请求次数
+R50
+invite消息
+用户订阅管理
+TECS CloveStorage
+Congestion Control
+record
+默认承载激活流程
+5GCN
+用户面连接
+NRPPA
+SFTP客户端
+局间切入
+Host Aggregates
+备份文件保留的个数
+AMF UE NGAP ID
+修改基于SUPI的A-SMF选择策略配置
+config-vlan
+SHOW SBIPEERNFBASEINFO
+信令跟踪
+在线用户数
+雷击
+切出请求次数
+映射损失
+rp-smart
+合法IPv4地址
+邻接关系信息
+HNSSFRETURNNRF
+BitTorrent
+Protocol error
+C510630242
+CSGID
+ADD SBINRFNODE
+association
+start
+xGW
+Primary RAT Restriction
+场景
+
+路由区标识
+融合局AMF
+局间附着
+VoPS
+排除攻击源
+终端
+MBUF申请
+per-packet
+NFType
+3-非法UE
+服务器IP地址
+恢复告警
+SRE
+字符串参数
+删除事件
+字段长度错误
+RNL
+config-mcast
+mppp ssnhf accept
+POC业务
+SHOW SCTPSTATID
+NFS实例名称
+特殊用语
+不计重发
+Network Function Service
+SMContextUpdatedData
+cgn
+状态码429
+展开条件
+Tracking Area
+show ssh server public-key keyname
+SBIPLMNID
+FTPPATH
+SHOW FULLNAT TUPLE
+secratrstply
+Update PDP Context Request
+流程事务标识
+负荷等级
+更新消息
+BGP
+流程结束
+移动性注册失败次数
+Namf_Location
+冲突处理策略
+位置区不允许
+周期性RAU
+重部署VRU
+RAN Configuration Update
+BGP-VPNv4模式
+参数描述
+路由更新
+云管平台
+472
+任务匹配
+ADD
+Create Session Request
+响应消息错误
+相对metric类型
+C557210022
+性能测量数据
+前后台通讯中断
+vcc-group
+ROLLBACK TRANS
+NDF管理
+cluster1
+SC入向流控配置
+Backup file list
+接口列表
+设置云环境资源服务等级
+网络中心交换机
+去注册操作
+共享PLMN
+NFProfile
+最大附着用户数
+消息功能
+地址池标识
+性能管理页面
+配置隧道
+第一阶段定时器
+CLOSE_SFTP_TRANS_LOG
+bc-value
+MTC
+TagPorts
+负荷
+SET NASRESENDTIMES
+工作状态
+C539010007
+开始时间
+CS Fallback Triggered
+ZTE Support APP
+C405250002
+SET SBISCPNODE
+Overload消息
+dampening
+VNFM
+EMERGENCY_SERVICES
+Authentication-group
+Handover execution
+tracking area
+ADD MMEHOST
+开放性
+重选模板
+nova-scheduler
+授权模板
+STOP IP COLORING
+Namf_MP模式
+BICC
+PARAVALUE
+国际移动设备识别码
+Nsmf_PDUSession_CreateSMContext
+网络标识符
+染色规则
+连接状态报告事件
+SHOW MAPERR GMM
+POOL
+C464050004
+删除PDP数据区
+PROTOCOL
+ipv6ip
+Remote Peer not response
+accounting template
+HTTP响应码
+2114060422
+Deadclock
+SET LICPOLICY
+ipType
+plmnSnssnaiList
+SM策略关联更新请求消息
+移动数据业务
+无状态设计
+Vrf名称
+修改消息优先级配置
+Insititute
+Message not compatible with the protocol state
+DSTIP
+Load
+Supported TA List
+防抖控制
+外部网络接口
+PLMN ID
+重定位完成通知消息
+SET SUPI ASMFSELPOLICY
+enable
+config-acctgrp-2
+触发点
+DATASETID
+SC测量对象别名
+PSA0
+Links
+标准SST
+远端认证
+sc-amf-comm
+上报事件时间戳
+SET OAUTHTOKENCHECK
+N:1
+SHOW SBISTATUSCODEPFPARAM
+R99
+SGW/PGW
+DES
+衍生告警
+SHOW TNLACFG
+消息传递失败
+CLTID
+SHOW LOADSAMPLE
+系统菜单
+备份MME地址
+上行保证带宽
+LCS定位功能
+ROLEID
+mvpn_tunnel1
+应对措施
+归属网络
+数据网络接入标识符
+非法状态
+邻接关系
+Area of Interest
+定时器配置
+BASICCM
+竞争力
+QoS重协商
+MME链路测量
+Openstack
+删除DNN组编号配置
+状态码
+细化失败原因
+U面
+C510630317
+重定位
+RAU请求消息
+show debug icmp
+策略数据
+CHG DIMCONNSTATUS
+C538010006
+C405510105
+ADD NET NUMBER
+查询用户角色
+sctp协议标识
+算法
+错误响应报文
+挂起
+out
+采样周期
+APPLICATION
+数字参数范围
+电信网络设备
+AmfInfo配置
+metrics
+fqdn
+每SC初始链路数
+PUDR_Info
+pos聚合组
+revert
+redundant processes
+net2
+服务范围列表
+C405630005
+CPS子接口模式
+执行周期
+NEEDREPORTALARM
+Nudm_UEContextManagement
+业务速率控制
+业务失败
+防火墙
+信令跟踪操作
+ALARMCODE
+NF实例
+SHOW PMCOUNTER
+新建测量任务
+SET CMPBACKUPRESTOPLY
+关联终止
+国内漫游
+backNF
+ADD SUPIRATRESLISTPOL
+签到
+CMDCODE
+NITZ
+Namf_ResourceManage_0
+转发策略
+默认取值
+业务量
+生效
+发包间隔
+SRCADDR
+Resource Prefix
+基于
+主要
+NATPORT
+中断绑核策略
+SET VMAUTOHEALING
+本端网元
+网络侧鉴权失败
+LCS业务
+Collision with network initiated request
+次数
+config-bgp-af-ipv6-vrf
+SET NET NUMBER
+Elliptic
+4XX
+资源名称前缀
+Nudm_UECM_Registration
+LLC-PDU
+C520020018
+Instance
+393237
+流控恢复门限
+SMF PFCP
+定位响应消息
+Rosng
+网元对接
+show cps flow back-press profile
+LLDP
+终端身份信息
+APNNAME
+RA报文
+config-mcast-ipv6-pim
+EPS承载上下文
+校内基站识别码配置
+FLOW
+404响应数
+RSA
+触发事件
+Npcf_SMPolicyControl
+uMAC-MME
+ENABLE
+SRSMPLY
+Stateful
+11-PLMN不允许
+parquet文件
+集群
+Create Bearer Request
+用户数据
+个/次
+CDB_DATA
+3XX/4xx/5xx
+NRF发现
+用户标识
+删除成功
+IMPACTINTERROAM
+收到AM策略关联更新请求次数
+rpki-rtr
+NAT
+终端异常信令管控
+接收Namf接口
+UDP Checksum错误数目
+黑白名单过滤规则
+ACL
+Add操作
+Over Load
+U3接入配置
+ALIAS
+网站应用防火墙
+CONSISTENCY
+确认密码
+hadoop_push.log
+升级工具
+SOAP服务端
+combo43
+重新选择IP地址
+业务指示语
+传输优化模式
+P-CSCF Restoration
+告警级别
+PLMN ID编号
+DNSCACHE
+Forward
+规格
+跟踪区更新流程
+XGW150
+RNS
+服务范围组
+NFRegister
+BSSGP
+注册区域
+DrxParameter
+LowLevelUser
+发送订阅ID增加通知次数
+GSU
+CLOSE LOGFILE
+环境变量
+CHF主机编号
+tftpd32462
+端口号范围
+DC
+Radio Interface Procedure
+NAS-PDU
+测里对象类型
+C405540045
+消息接收次数
+ADD DO IP
+zte
+协议消息类型错误
+Anti-replay
+Signalling Connection Control Part
+IMS语音
+订单信息
+ASID
+上传的开始时间
+match
+WAP网站
+786763
+分词
+SBI接口网元
+非normal状态
+OPWAY
+Default
+合一配置
+Technology Management Dept
+ProblemDetails
+批量修改业务签约
+config-ospfv3-1
+激活失败
+NOTIFY_OFF
+ITU协议Q.711~Q.716
+FwdRelocReq
+C405740014
+备份认证管理
+N5g-eir_EquipmentIdentityCheck_GetRequest
+TOS-capability
+pri-label
+无线业务参数模板
+计费
+ZTE-KS3200
+oldAmfDelayTime
+自治系统
+文件SFTP路径
+SNSSAI
+NSE标识号
+ipv6-address
+CPU使用率
+标准访问表
+修改响应
+config-bgp-100-af-evpn
+失败观察
+C100540007
+设置网元工作状态
+个数
+备份文件路径
+SET DM USGBASE
+C432050002
+上下文
+UEC_SMF
+C559170039
+中国电信
+局向总数
+总数
+ADD LOFC
+307
+成功应答次数
+SHUTDOWN CHUNK
+逻辑视图
+业务输入
+gtt总数
+ULP
+Globe Title
+收发点
+IMEI信息
+连接监控
+by-interface
+ADD SBISERVSCOPEARRID
+移动国家码
+CommonS_IPS_0
+ping-tcp-server
+测量任务管理
+缺省值
+漫游用户上报特殊日志
+HIGHPRIORITY
+disable
+计费消息缓存
+internal
+交换机/路由器用户管理
+连接态
+ZUF-78-12
+UE策略关联更新消息
+UE原因导致
+SLA
+对端地址
+Required
+上载带宽
+204
+NAS INTEGCTRL
+ACL规则管理
+5G基于DNN的PDU会话测量
+C405890008
+GUTI
+MAXIMUM_WO_VENDOR_EXTENSION
+Route
+注册状态报告事件
+接口名
+TAU
+HLR号码数目
+DNS Client
+WEA
+RETRYAFTER
+policy-map
+mc-selection
+SET SECURITY PARAMETER
+执行详情
+告警信息
+GUAMI组编号配置
+SET MOBILE MANAGEMENT:MMEZONECODELIMIT
+东八区
+枚举类型
+切换请求次数
+config-bgp-100
+RAN侧
+最大流量处理能力
+VLAN Name
+系统缺省值
+路由属性关键字
+目标侧MME
+动态数据管理
+计费特性
+TCP响应时长
+PDUESTANDMOB
+LMF标识
+Bit15
+IMSI attach
+虚拟功能网元
+上行业务
+容灾相关
+MAC地址位数
+操作方式
+SET DESRECLAIMCFG
+SCTPPROTYPE
+复杂度检查
+PDP上下文请求
+Ipv4
+SHOW PKG
+C559110025
+VMSIZE
+Update FAR
+传输地址
+安全管理员
+比率值
+C405750037
+设置Old AMF延时处理定时器
+产生的影响
+PREEMPTABLE
+Ncudr_SystemManagement_0
+List
+HPLMN
+重决策
+查询附加属性
+Cause Code 100
+NFUpdate
+Not Applicable
+Nsmf_PDUSession_ReleaseSMContext
+MMEGETIMEI
+SHOW SGSN IMSI AUTH
+ipv4-addr
+锚定主备信息
+发送策略授权事件
+按时间设置
+Setup
+强制修改
+C556170010
+default
+show arp statistics
+匹配次数
+SHOW GMLCDISCOPARA
+LUDTS
+检测间隔
+中国联通
+接管AMF
+协商通知
+控制功能
+他局
+搜索栏
+DNS原因
+SC实例号
+.sta
+协议规定值
+业务过快
+服务名称
+ADD SBIRESOURCETHRESHOLD
+CGW
+786619
+Relative AMF Capacity
+LICID
+PTI already in use
+GUAMI Item
+业务请求失败次数
+De-registration
+节点地址
+C520250057
+ADD TAGROUP RULE
+ROSNG平台
+END
+hSMF
+路径切换请求消息
+VNFM服务端
+Fully Qualified Domain Name
+容量下限
+网络端口镜像
+租户
+ZTE_oamdbg_1
+客户端类型
+影响
+NFStatusUnSubscribe
+RegArea_Nanjing_Yuhuatai
+原因码模板编号配置
+C559000013
+C405690087
+Overload Stop
+SM就绪请求次数
+每用户AMF内移动性注册请求次数
+GT参数变换策略
+C405310020
+服务发现请求
+Service component
+Delete Subscriber Data Request
+con ter
+物理交换机端口
+License项
+Npcf_SMPolicyControl_Create_Res
+Secondary RAT限制策略
+Expression
+目的IP地址
+全跟踪
+FE
+3506438169
+Configuration Transfer
+名称
+threshold(100 tps)
+号码
+辅锚点UPF
+SOAP用量报告
+部署
+no-advertise
+GTP消息
+fe80::2ee:ffff:fe30:1000
+EMM
+消息类型
+INTERVAL
+half octet type 1
+检查
+修改数据
+限制
+十进制数值
+仲裁
+进程名
+监视
+更新
+mobility management
+large-community
+immediate-leave
+Local
+OFFICERECVFLOWCTL
+ACK
+Mobile Station Identification Number
+非法用户接入
+End Port
+内存
+NFManagement
+角色管理
+标识
+Master
+SET REGAREACFG
+对应关系
+DesAlarmL2Rate
+DIM
+FLOW-CONTROL-MS
+软件版本
+isakmp
+DIM忙检测功能
+Delete Bearer Response
+DPU
+Caused Code 97
+口控制配置
+网络共享
+Forward Relocation Request
+新增NRF服务器节点配置
+2C纯数据
+流程失败
+mpls-label
+Commit
+分流策略
+Username
+packet
+name
+LINK
+29274
+DEL CGPLMN
+selected
+Information element non-existent or not implemented
+累加统计
+漫游取整值
+发包数
+access-group
+年度总结暨表彰大会
+全网
+crypto
+html
+局内切换
+REV19
+布控数据
+Exist_MML
+Namf_MP_0
+switchport
+Rel15
+小区广播服务
+跟踪区组
+YES
+修改会话请求次数
+JSON
+procedure
+未指定的协议错误
+READY
+待办事项
+不符合要求
+EEA2
+主备模块
+区局
+失败数/总数
+2365982732
+新通话业务QoS映射配置
+C556170039
+寻呼消息
+起止时间
+警告
+C430160005
+0x12
+RCP2
+PSKHINT
+跨RAT流程
+NF服务实例地址
+Type of Security Context Flag
+拒绝消息
+目的端口号
+保护路由区配置
+USER
+异常场景
+配置
+局向号
+PDU修改类型
+聚合接口
+消息体
+局间切换
+ChargingDataRef
+PCF地址池配置
+Iu接口过载控制
+route-map实例
+C000200128
+CHF_Info
+access
+局内Gb口
+可用内存
+状态码503
+4294967295
+PSK提示信息
+过负荷控制功能
+No resources available
+高端用户
+REL_SY_SESS
+AN
+链路忙
+failure
+OMC
+addrPoolID
+S1 Release
+C559150043
+Response
+NF标识
+Sy
+HA
+备用CHF
+TACRANGEARRAYID
+hoState
+SHOW DIAMADJROUTE
+flowtype
+SET SCTP
+方向
+5GS mobility management messages
+创建回滚区页面
+数据传输质量
+TAC范围组编号
+虚拟化
+软重置
+SHOW SBIGUAMIARRID
+POP服务器
+初始注册
+C405070122
+fei1.1
+config-if-gei-0/1/0/1.1
+权重
+Pre-R8
+服务端口
+NF类型组编号配置
+每页
+CAMEL原因
+刷新注册成功率
+S6a接口拥塞控制
+Copyright
+N7接口
+版本篡改
+C430110017
+MAXLOSS
+EPS控制面
+位置IP关联TA编组
+Network failure
+用量条件
+PD扩展
+C464070006
+TNL Association
+告警级别切换
+触发关闭QFI容器
+null-scheme
+IE
+vpnv6
+局间重定位
+GMLCNFID
+Cause Code
+爆炸
+CGW服务端配置
+失败响应次数
+业务高峰
+66
+ac保护组
+安全参数
+鉴权加密失败消息
+虚端口
+SET SGS ROUTE GROUP
+IP地址位数
+U31接入配置
+权重优先级
+C539010018
+kpps
+5xx
+资源不足
+set ip sr-policy
+备份任务编号
+MML Terminal
+重置
+域组编号
+SHOW DUALCONNRATRSTPLYPRO
+释放
+附着请求信令黑名单
+4/5G互操作流程测量
+Dashboard
+init
+对端网元状态
+发送SM策略关联建立失败应答次数
+SGSN局间RAU
+NE Type
+内存消耗
+area
+FQDN
+TA not allowed
+SET GTPSECCHKSWITCH
+DNAI组
+报文使用率连续告警次数门限
+MAP
+C405800046
+统计数据
+socket层
+BASECAP
+网口队列
+FTPUSER
+Diameter管理
+DIRECTION
+GT属性变换
+表容量使用率
+vpls
+补采
+特定流程冲突处理策略
+源IP地址
+网络环境
+C510630227
+消息传输压力
+sdc
+BACKUP命令
+周期性RAU时长
+回退未传送的数据
+C405630004
+获取PGW主机名
+厂商
+附着成功率
+报错
+业务中断
+MO数据
+本地认证
+空闲态
+check
+失败事件分析
+异常
+ENCRYPTION
+EIA3
+DEREGISTER-USER
+转码模式
+SHOW REJECT POLICY PROFILE
+xGW-C
+主备NRF服务器组
+address family
+License
+XGW
+SHOW VNICQCPU
+对外开放的结构化数据
+容灾恢复配置
+已激活会话
+月日期
+DNS查询成功日志
+Download
+系统稳定
+C405880092
+OMP
+5
+C000200002
+本端IP
+ACT
+查询缺省DNN配置
+EEA0
+上报方式
+重选配置
+Provide Subscriber Location
+紧急数据
+main.py
+下行数据包
+maxhcon
+Handover Failure
+AIC
+DSTOFFICEID
+用户跟踪
+启发式检测
+默认异常值
+通信流程图
+间接数据转发
+RA-CAPABILITY
+MK
+认证计费组
+SET SBINRFNODE
+TNLA
+择优选择
+设备告警
+CC
+二级规则分流
+IMSI号段
+No_Need_ReRegistration
+DCE n392
+会话过程的事务标识
+停止
+Routing Area Update Accept
+DEL USGROUND
+激活失败次数
+执行自动备份策略
+虚机部署
+非直连网元类型
+SCTYPE
+SMS有效载荷
+MED
+VDC
+备份恢复日志
+基于号段选择AUSF配置
+0x06
+执行结果
+SOAP服务器标识
+报文数
+激活请求消息
+packets
+switch
+查询高危命令管控配置
+服务单元
+QoS类映射配置模式
+C510020037
+跟踪BGP收到的报文
+接口名称
+告警值
+信息
+Location Area
+查询结果
+网元管理层
+网络侧
+QoS保障
+历史性能数据
+Release Item
+净荷主体
+Npcf_SMPolicyControl_0
+MPPP接口模式
+上报切换日志
+Stateless
+SR-MPLS
+ratresacqpol
+RAN Paging Priority
+性能满
+LBO
+绝对metric类型
+路径标识
+选择
+permit
+静态缓存条目
+子接口号
+企业内部网
+OPRCODE
+SET SOAPACC
+C405750027
+迁移
+C558530066
+RTID1
+原因码
+debug
+重附着
+TOTALNUM
+STATUS
+TCP ping服务
+运营商机房
+service_req
+INITUSERAMOUNT
+当前使用数
+C431080032
+修改接受消息
+邻居数目
+EBI
+SBI-GW
+告警类型
+EVS
+预处理阶段
+SHOW SCTYPE
+Network Type
+业务内部触发
+检测周期
+上传权限
+C405060023
+会话类业务
+Extended DRX Parameter
+接入网
+查询用户锁信息
+Vlan
+PDU建立类型
+dhcp
+特殊名词
+承载修改成功次数
+ULR
+添加组织
+NPCF_EVENTEXPOSURE
+group-id
+S8HR
+RFC 4122
+外层VLAN
+Trunk管理
+NRFServer
+注册过程
+事件监视
+le
+AF
+最大值
+类型:参数可选性
+任选参数
+PIM-VRF模式
+SBIROUTINDARRPARAM
+激活接受消息
+删除DIAMETER路由组配置
+使用率
+Slice/Service Type
+SOAPSRVTYPE
+攻击点
+附着的
+Extended protocol configuration options
+客户端链路
+2XX响应数
+IN
+CANDIDNN
+回调请求路由模式
+UDP
+紧急事件
+GW
+Key-Name
+LmfInfo
+IDLE状态
+Detach
+C405400068
+故障指示
+目的地址
+注销请求
+C556060030
+切换目标
+缺省DNN
+未认证的紧急会话
+RRC连接释放定时器
+可选特性
+维护人员
+Aggregate_Instance_Extra_Specs Filter
+SMGP协议
+IP地址管理
+参数含义
+NF发现请求
+PCF系统
+V2X
+XUDT
+SHOW DPDKCOMMCFG
+运营商规划
+MSCPOOL
+分析服务支持的事件ID
+3GPP 48018
+初始化失败
+Authentication Information Retrieval
+15分钟
+VLAN
+C007670012
+应用中心
+DITA
+定时器
+ADD CONFIGUREDSNSSAI
+命令权限级别
+用户签约
+云管理员
+Qos
+负荷卸载优化
+用量取整配置
+OTCP票据认证
+Distributed Storage
+Ping命令
+LIC
+3Gpp
+STARTPORT
+3GPP TS 29.060
+C432000076
+Cumulative TSN
+gei-0/1/0/1.1
+不可见
+Trunk
+订阅
+MME IP地址
+Specific-Action
+BSSGPU
+su
+触发成功释放
+端口流出丢包率
+用户号码
+Online
+配置不成功
+C405880088
+NF类型组参数
+nsiList数组
+VRU名称
+属性映射
+释放次数
+collectionEntityIpv6Addr
+Caused Code 96
+PLMN ID组编号配置
+路由接收
+GMLCANALYCFG
+httpCode非2xx
+SC组
+策略更新流程
+Routing Area Update Reject
+参数说明
+DCN
+5G核心网
+Generic Public Subscription Identifier
+GTPC IPv4信令地址
+预防性维护
+条目删除映射条目
+C520020009
+码流方向匹配
+stratum
+PDN
+Arp
+事件订阅
+LAWFUL_INTERCEPT_SERVICES
+N22接口
+atm155-0/1/2/1.2
+Namf_Communication_N2InfoNotify
+销毁
+修改方式
+MS identity
+l2vpn
+RC
+ipv4Addr
+Too Many Requests
+EUTRAN
+基础数据
+激活拒绝
+AAR消息
+show ip interface brief
+(R)AN
+物理设施
+平均PDP数
+SHOW DEFAULTDNNCONFIG
+Provider
+通信失败报告事件
+hello报文
+无线拥塞控制
+SMService
+FUNCFLG
+route-manage
+Old AMF
+对端NF基本信息
+Management
+格式
+资源管理
+PRIORENCRY
+interfaceList
+discovery transport-address
+CBS
+跳过解码
+承载激活流程测量
+RRC
+PDN disconnection
+terminial monitor
+NFS进程
+地震海啸预警系统
+维护培训
+计数器/指标
+ssh server public-key keyname
+删除测量任务
+系统配置
+独立专网
+C510560030
+查询NF服务集标识组编号配置
+address-prefix
+Nudm_UEAuthentication
+附着流程
+公有云
+重选SCP/SEPP
+delay-time
+应答
+tokenUser
+服务化接口
+搜索
+PIM-SSM
+MSC
+资源预警
+community
+本端M3UA
+Diameter
+策略生效统计信息查询
+C405720026
+Create Session Response
+PFC流程
+USERSRC
+DPDK
+CS域
+SNPN
+NSSFPLMN
+用户动态管理
+IP端点组参数
+PCC预定义规则
+USERNAME
+SOAP服务类型配置
+TA不允许
+应用场景
+创建失败次数
+常见问题处理
+导入License
+CN跟踪信令数据
+网络分配
+立即支付
+Nudr_DataRepository_Subscribe_Res
+本端规划
+任务号
+输入端口
+终接域选择信息
+操作类型
+高可用功能
+SMS
+M3AP
+信令拥塞控制
+ESMLC
+SSNCHG
+HLR号码
+nistp521
+logging nat ftp
+告警参数
+Sy会话
+PRIORITY_UNCONTROL
+终端能力
+总时长
+R&D
+附着
+北向
+车对外界的信息交换
+拥塞持续时长
+DELETE PDPCTX
+调度过滤器
+FR
+低端用户
+SHOW DESRECLAIMCFG
+公共参数配置
+SLICE
+INTERPROCNO
+告警信息汇总
+C510560002
+清除类型
+IP端点
+禁止
+性能管理
+区域号
+全局配置模式
+E-RAB
+APN限制类型不匹配
+Sessions
+user-group-name
+优先级
+调试
+服务组件类型
+路由器R1
+动态流控
+计算公式
+上传按钮
+TAGROUPIPLOC
+WOBBLE
+OSPF接口IP地址
+时区定义
+SM上下文
+VEID
+CCA-Update
+完全合法有效用户
+NEIRCAUSEMAPPINGCFG
+.csv
+5G-EIR
+对话框
+GUAMI
+身份认证接口
+业务消息流程处理
+color
+存储资源名称
+网元ID
+debug lldp all
+327761
+sNssai状态
+Router
+双主
+TimeZone
+技术支持网站
+C520210033
+C405180114
+下发命令
+session management
+Alarm threshold
+几何基数级膨胀
+Nchf_ConvergedCharging_Release
+无线侧
+Suspend状态
+移动终接短消息
+网元统计能力
+ALL
+更新承载响应消息
+正则表达式
+DEL SBISERVSCOPEARRID
+流量欺诈
+USIM卡
+大数据备份
+IMS网络
+SHOW DIAMROUTE
+Architecture
+C403520024
+人工干预
+NFSNAME
+Binding信息
+立刻同步
+解码
+MS
+忙时拥塞
+DNN
+LOGFUNCFLG
+不携带
+特性能力
+C510020080
+area-id
+虚机类型
+ADD EPCHOST
+C559100052
+切片相关信息
+DEC SC
+evpn
+任务管理
+服务管理配置
+编解码过程
+OMM网管
+管理端口
+config-cgn-zte
+CRC校验错误次数
+规划
+POST请求
+无可用网络切片
+PWS-BCAL
+number
+ipv6 multicast-routing
+NAT日志模式
+修改NF局向检测配置
+重试建链
+路由更新类型
+SHOW SSHCONF
+ADD SOAPACC
+静态隧道的自动路由metric值
+GW原因
+文件扩展名
+SHOW VERSION DETAIL
+指标模板
+pLMNId
+interface smartgroup1
+SET SUPISLICEMAPCFG
+2级路由类型
+Stop Reporting
+RAC
+应用层错误码
+Cryptography
+emergency registration
+发布虚机规格
+isakmp key-set
+5GMM cause
+allowedNfTypes
+Too
+PMSI
+sliceDiff
+安全检查开关
+出向自适应流控
+NFDiscovery
+路由更新拒绝消息
+Back-off Timer
+多TNL
+Network/subnet
+激活定时任务
+信令跟踪处理能力
+外部网络协议选项
+other-config-flag
+数据包
+自动恢复
+编号计划
+管理IP
+crypto ipsec static-profile
+HTTP POST
+订阅通知功能
+保留成功次数
+子接口模式
+Rcv_packets
+transport
+Cx SAR消息
+周期性路由更新
+网元选择器
+接口报文
+信令数据
+generate-key
+State
+ECS
+目的NF类型
+MD5认证
+本次查询数
+Free memory
+配置门限
+业务进程异常
+CMAS
+locality
+寻呼原因
+创建承载响应消息
+MME重平衡
+节点检测
+manual
+Authentication and Ciphering Failure
+Query操作
+ZXROSNG
+as-path-access-list
+1-65535
+FLOW-RECORD模式
+非扩展APN
+流控门限
+Identity request message identity
+NRF
+Congestion
+SHOW LOCALGUAMI
+最佳
+零窗口探测报文
+5G-GUTI
+Source MME
+STOP ALL ENB OVERLOAD
+maxper
+应用标识
+支持功能
+DSCP
+MGM
+网段地址
+NF列表
+L2VPN
+下一跳属性
+应答次数
+成员链路
+控制项
+剩余天数
+短消息会话流程
+Failure
+C510020042
+Rx发送成功AAAI
+brm
+实时状态
+执行
+SET RESOLUDMSEGPOLICY
+OFCID
+Nnrf_NFMangement_NFStatusSubscribe_Request
+切换
+接收不期望的消息
+cell-transport
+C559040010
+path-mtu-discovery
+NID组编号
+北向接口
+GT参数变换编号
+METHODTYPE2
+SET LOFC
+检测次数
+C405180107
+源侧MME
+IMS PDU Session
+业务体验
+火灾
+TagID
+IP地址冲突
+安全问题
+Permanent session leg establishment error
+4xx/5xx
+SYNA
+no-export
+NITZCFG
+NPCF_BDTPOLICYCONTROL
+Neir
+附加信息
+公共陆地移动网
+参数名
+PFS
+Srns Context Request消息
+手工清除
+拒绝方式模板
+IMSI号段源GT配置
+上报MM日志
+异常流量提醒
+配置路由器
+仲裁机制
+SET TIMEZONE
+non-te
+私有
+无线网络层
+毫秒
+UeSecurityCapability
+not
+PCEF
+IPsec
+激活会话
+原因
+Checksum
+GTPC地址
+缓存区
+重启
+升级
+NF流程
+OpenStack
+自愈功能开关
+C430160006
+TFT语义错误
+能力标志
+DEL DM USGBASE
+标签
+RAN NSST
+dynamic
+downlinkVolume
+流量异常
+限速阈值
+附着请求
+设置全局重新选择策略配置
+处理建议设置
+C405180206
+SBINFSVERSIONARRID
+BSIBSFINFO
+规则
+国内漫游用户
+组网规划
+SET DIAMERR EMM
+获取MS ID
+峰值传输字节速率
+C405320043
+删除IPv6前缀范围组编号配置
+MAXIMUM
+USEALARMLIST
+数据集组编号
+提示信息
+C431080010
+NG Setup Response
+定时同步机制
+健康状态
+漫游地
+RAN原因
+虚拟机
+monitor_push.sh
+Location Response
+Requests
+SUBSCRIPTION_WITHDRAWN
+接收失败
+业务请求信令黑名单
+29.507
+局向管理
+START IP COLORING
+flow rate-limit
+5GS registration type
+PCP EDI
+移动性
+NSSF服务
+监测索引资源
+learn-limit
+设备性能
+track实例
+数据来源
+冲突
+PDU Session Authentication Result
+分析配置
+Ip地址与Ip版本不匹配
+二次激活
+end-point
+NRF接口
+查询数据集组参数配置
+SHOW SOAPUSGPARA
+SMF_Info
+Re-attach
+TAU Accept
+MNC/MCC
+SET MOBILE MANAGEMENT
+资源池信息
+系统管理
+PDU会话ID
+ATTACH REJECT
+C510530025
+5GC核心网
+algorithm
+ran.util
+位置报告事件
+话单
+响应消息
+业务请求频度
+可选
+地址选择方式
+C405720008
+radius-server
+承诺信息速率
+MANO
+扩容
+无效SPR
+DCNID
+CCA-U
+路由局向
+C405900007
+定位业务
+N2接口
+ADD PKG
+n2SmInfoType
+NAME="default"
+CPU过负荷控制
+EXP value
+BVC闭塞
+ORF
+SET NAT PORT
+部署方式
+tunnel
+SCP
+NotFrag
+信令风暴
+Gb接口
+UUID版本4
+非法篡改
+mlc-Number
+四级负荷阈值
+SET LOADSAMPLE
+Target eNB-ID
+TS 29.512
+组合查询
+disconnected
+消息优先级
+查询自动备份策略
+P2P
+主机集群
+相对metric值
+非确认数据包
+RAT
+ProcessId
+组网方式
+部署步长
+CDB
+自愈配置
+状态变更通知
+对端关闭状态
+OSPFv2
+Error消息
+去连接
+SSNM/ASP
+RP-Cause
+用户分级
+RTTYPE4
+信令消息
+mpls-te
+ROLE
+输入参数说明
+MSC网元
+PDP激活请求信令黑名单
+创建虚机规格
+Create
+SSNHF
+位置关联
+无用户关联
+功能配置
+configure terminal
+SHOW VRU
+kompella
+AM策略关联建立
+65951
+异常处理
+service option temporarily out of order
+优先级模板组
+信令传输
+GPRS
+LICE_SESS
+Transport
+应用层协议
+接口配置模式
+TA列表
+4A票据
+PRA
+clock offset
+开放授权
+initial registration
+覆盖
+周日期
+PARAID
+对端IP
+VRF值
+负荷等级3
+通讯技术
+ipEndPoints
+VRFID
+BEGIN
+网关设备id
+C520100106
+SFTP服务端
+维护目的
+Relocation Required
+用量上报
+V1
+RAN
+show ssh server authentication-info
+修改会话
+性能指标
+业务负荷
+UE N1下发策略请求消息
+MGT
+SQCPU
+logging
+子系统转换配置
+DEL NET NUMBER
+上报释放日志
+hold-time
+SET SGS OFFICE ROUTE GROUP
+三级告警
+traffic-index
+筛选
+Delivery Order
+公民位置
+跟踪区码终止
+Npcf_SMPolicyControl_Create
+目的NF
+正常入标签
+效率
+SBINFTYPEARRPARAM
+移动网络代码
+Tracking Area Code
+STYPE
+LS
+MTP3协议
+autoroute
+APN NI
+200
+tacacs+
+人为灾难
+N26接口
+ACL列表
+高拥塞门限
+效率问题
+SGW-系统业务测量
+网关端口id
+UNLOADDETAIL
+网管配置
+DEL BINDINGSRVNAME
+vnfmip
+国际漫游用户
+CAR
+安全边界
+告警描述原型
+pvid
+FR接口模式
+N7SSN
+PRN消息
+NPCF_UEPOLICYCONTROL
+S11-U
+数据恢复
+eDRX
+SET GMLCDISCOPARA
+XID Reset
+SHOW SGSCONNSTATUS
+Manual commit mode
+发送注册
+Change Notification Response
+SHOW PMOBJCLASS
+111-协议失败
+Location Management Function
+信令信息
+通用套餐
+eventList
+CHG
+EM客户端
+Protocol
+ECC
+历史告警库
+IPv6报文
+管道运营商
+样值
+容量上限
+性能统计数据
+七号信令接口
+Tracking Area not allowed
+本地NRF功能
+转储服务器密码
+IPv4地址范围配置
+OPTIONAL_QUERY_PARAM_INCORRECT
+OsAutoDeployment
+SCTP连接标识
+EMS
+EDITACT
+分组
+START
+NRF模板
+流量统计值
+KPI
+logging-translation-when
+OAM
+AMF
+SMF
+N4会话修改应答
+ZC
+static
+moid
+1000::/16
+SET SERVRSTOCFG
+功能说明
+转码集缺省封装模式
+INSTNO
+UE策略关联删除消息
+初始请求
+RN节点
+GSU虚机
+业务处理实例
+RADIUS认证
+http://support.zte.com.cn
+SHOW STATUSDATATAKEOVERAMF
+VNF Resource Prefix
+RAB重建
+debug ip icmp
+激活标记
+重启整个系统
+SAPI
+SGW-C
+aspath-list-name
+TECS OpenStack
+TCP连接
+认证URL
+200响应消息体为空数
+NO
+ESM information not received
+EPC网络
+PLMNNID
+Indication参数
+切片/服务类型
+预置条件
+NRF服务器模板配置
+LIC标志位
+VNFO
+MME地址
+网络信令处理节点
+字符串
+分配承载
+通用流程测量
+autoroute announce
+RAN NSSI
+ADD PCFLOCALADDRPOOL
+X:X::X:X
+恢复
+AMF局间流程
+CHF
+amfName
+RCP
+弹性IP
+Basic_Info
+修改注册区域配置
+TSC Flag
+统计
+65874
+byname
+SET SBIGUAMIARRPARAM
+DisplayResult
+地理区域
+Registration
+C405810049
+C405580077
+测量类型ID
+IP三元组
+对端网元
+MAP Error
+TAU Request
+2G接入
+SGs口寻呼
+IPv6前缀范围组编号
+NrfProfileID
+大地测量
+重发次数
+测量项
+负荷分担
+SC测量对象名
+负荷分担路由方式
+commit-mode default
+To-Business业务
+C510100002
+请求的业务选项
+没有发出的包
+Service Component
+min-num
+取消设置
+倒回流程
+PMSC
+SET DUALCONNRATRSTPLYPRO
+match-all
+NRF配置
+PLMN Support List
+触发
+Incompatible
+SMS业务
+CHR包
+大区-省份-地市
+vpn
+主要技术经济指标
+RESULT
+业务成功率
+SHOW POPSRV
+1-64
+有效
+PFL
+权限分配
+配置数据管理
+SC逻辑编号
+SGs连接路由
+日志开关
+绝对metric值
+NF发现方式
+有状态自动配置
+告警-业务数据
+Unicast
+结点类型
+N8
+C510290001
+起始定时器编号
+C556010005
+RTID3
+信令面交互
+获取鉴权向量
+已分离用户
+窗口更新数据包
+C405610006
+DNS Query Response
+port-limit
+MB/s
+PacketType
+SBITAIARRID
+SHOW RESEL SGSN ADDR
+告警状态转换
+SET PM DATASAVE
+用户附着
+bad
+MultipleQFIcontainer
+字节数
+重新部署
+服务端链路容量配置
+对端服务SBI
+PCF_123
+信令触发
+SHOW SGS ROUTE
+安全检查未通过消息总数
+VRF
+组织资源
+C556090001
+策略模板
+cn.umac.amfmmegngpsgsn.600000014
+禁止重建
+5G Core Network
+Rx RAA
+TFT
+环境
+ADD CBC OFFICE
+本地维护终端
+EMPO编号
+NR重选
+NPCF_POLICYAUTHORIZATION
+SHOW SGS ROUTE GROUP
+E-RAB Release Command
+encapsulation-mode
+Extended protocol discriminator
+SET SOAPUSGPARA
+extend-mam
+GTPV1
+服务质量告警
+3级路由类型
+Indication
+服务
+SYN
+UNLOADSTATUS
+URR
+数据库
+验证码
+C510040028
+心跳状态
+DEL INTRABSID
+DEL SBISERVERPSKSET
+NATPORTBASE
+告警功能
+vSMF
+通信告警
+分离指示消息
+LDAP/LDAPS+本地
+重启指示
+发送AM策略关联更新成功应答次数
+AFAI
+硬件设备异常
+EXPORT
+获取
+业务流值
+MBMSGW
+IP报文
+RAR
+服务发现请求消息
+多队列技术
+移动通信原理
+Rx
+去注册请求
+LOCKPOLICY
+互动交流
+soft
+TransitAreaId
+Port
+Transport(tcp)
+用户面上下文
+局内跟踪区更新
+配置调整
+GMLC信息编号
+5G NAS
+SBICAUSECODEPFID
+Request Type
+区外传输
+同步失败
+空帧
+N(U)值
+去除用户原因
+Unknown名单日志
+Address
+AVP替换方法
+IfName
+本局子系统
+MME控制面地址
+Local As
+流类业务
+MOBNONSMPLY
+S1 Overload Control
+POP编号
+MCC
+会话总时长
+MLMTINTRACAUSE
+SETTINGS帧
+接收UE
+Old SGSN
+FEC
+UE策略
+配置S-NSSAI
+C000180201
+有效License文件
+用量数据配置
+N10
+Regular
+资源池部署规划表
+最大建立时间
+valid
+register-source
+encode
+diameter路由
+功能测试
+GUMMEI
+启动失败
+剩余限制时长
+OCSN
+Import/Export
+日志数据
+Central
+其他SGSN原因
+RAB
+新建会话
+config-lacp-sg-if
+5G
+Extended
+SET SBIDNNARRPARAM
+接入区域编码检查
+Subscribe/Notify
+BSF
+PRIORPFGROUPID
+弹缩类型
+O&M
+Control-Plane
+Virtual Running Unit
+SRCOFFICEID
+进度
+0x19
+786536
+自动备份策略
+超时无应答
+SUPISEGSERVAREACODE
+PCF名称
+节点ID
+新增NSI组编号配置
+ARP
+Delete Session Response
+配置变更
+SENDTM
+业务模块
+路由区
+恢复接口默认值
+防护模式
+Request消息
+IFUECTXTRANSFER
+密码编辑器
+Paging消息
+TIMETYPE
+SBITAIRANGEARRPARAM
+HandoverItem
+最大重发次数
+mIoT
+NFInstanceId
+LOGINRETRYTIMES
+Time
+设备
+16进制数
+MME
+本端端口
+失效时间
+SET VNF
+Handover Command Transfer
+堡垒机
+DEL SGSN IMSI AUTH
+地址
+table-policy
+Load Control Information
+备选DNN配置
+负载均衡
+5GC网络
+RTTYPE2
+show running-config
+GTP Cause
+SET GTTI
+枚举定义
+增加附加属性
+无UDSF容灾部分备份功能
+memory available
+基站识别码
+拒绝策略模板
+POLICYCTL
+NFS名称
+全量签约
+IE错误条件
+有效性
+服务方式模板标识
+去激活请求次数
+Unitdata
+服务区域
+SBIIPV6PREFIXRANGEARRID
+ISUP
+非确认模式
+自愈策略
+OPR SSN
+本地NRF配置
+USPP_62
+EMSPLUSLOG
+C430000035
+局间RAU流程
+计算生成
+版本要求
+Activate PDP Context Request
+Unavailable
+NRF功能
+受控项
+PDN连接请求
+低优先级业务
+Nnrf_NFDiscovery_Response
+SBIGW
+GTP报文
+SET MTCAPN CONGESTION SWITCH
+PS和CS
+C514500114
+激活
+PS业务
+OSPFv3邻居相关配置
+执行时长
+NFS私有数据
+SI
+服务器内存占用
+P100030016
+5005
+show bgp
+SET QUORUM VM
+AMF网元
+SBIPEERNFSERVICEINSTANCE
+frame-relay
+ManagedElementType
+报文使用率一级告警门限
+网元类型
+SET DPDKCOMMCFG
+CBC局向配置
+As-path
+协议错误
+PRIORITY帧
+N4会话建立请求
+测量对象
+C405070141
+转码集
+不变
+更新订阅请求
+移动智能终端
+传送数据
+C538010016
+UE失败
+影响说明
+SendDataReq
+NPLI
+可能原因
+默认值
+SHOW HIGHRISK CONTROL
+非3GPP
+配置IP段
+C464080001
+SHOW DIAMCONN
+inactive
+delete
+transmit_replication_rsp
+查询加密套件集配置
+数据结构
+事务
+查询校内基站识别码
+vlan
+NFStatusSubscribe
+命令参数
+POP数据配置
+必须单选参数
+CN辅助无线参数优化
+EMM原因值
+未提交命令
+DNS服务器
+Cached
+用量门限
+强制丢弃
+数据业务产品
+UDSF
+快速定位故障
+PAGING
+Notify
+Stub
+GTP节点管理
+信元传输模式
+ipv4_addr
+确认状态
+SET OAMFDELAYTIME
+NUMBER
+割接升级
+show ipv6 mld groups
+用户号段
+删除默认签约APN带宽
+ADD SPECDRA
+数据访问请求
+隧道ID
+HTTP
+as
+信令处理实体
+周期性更新注册请求
+磁盘数据总空间
+取消订阅
+Ipv6
+hSMF查询方式
+安全性
+C556080027
+v9
+Modify操作
+排除模式
+MVPN
+preempt
+xauth
+RIM失败日志
+请求消息数量
+Delete操作
+AUSF
+绑定
+共享大体积文件
+ADD ADDRPOOL
+用户数据包
+不控
+VPI值
+Revest-Shamir-Adleman
+业务回落
+去激活
+C405110004
+MINIMUM_WO_VENDOR_EXTENSION
+REMAININGTIME
+SET DOSPRT
+cancel_monitor.sh
+切片区分信息
+off
+rai_0001
+NFDeregister
+max-users
+测量背景类业务
+对端NF
+Cause值
+VLAN ID
+Attach Type
+Npcf_PolicyAuthorization_Create
+accounting-update
+UDMCAUSEMAPPINGCFGBYSUPI
+C405050008
+vrf_v4
+GS NFV-SWA001
+冷备容灾
+自动路由功能
+封装
+ADDCI
+流量队列
+CTRL/Z
+SUBNOTIFY_TYPE
+SCINFO
+ZoneCode
+倒换事件通知
+SBIOLOPT:OUTMSGREJRATE
+NF Service IP
+DoS/DDos攻击
+Continue
+传输接口
+规则ID错误
+系统维护人员
+外部网络平面
+2370177034
+IPv6优先
+管控
+PLMN级切片
+ue_context_in_smf
+NfInstanceId
+igmp
+通过率配置
+AC
+config-if-atm155
+N14接口
+去附着
+新局
+Ack
+SNSSAITAIAMFSET
+分片服务类型
+reference time
+Message Type
+相关任务
+C510650010
+NF集标识
+Flood
+C557030012
+C405070090
+kw
+NFListRetrieval
+ADD CGWSERVER
+NextHop
+自治系统路径访问表
+当前告警
+ERROR
+报文总数
+Dedicated
+Namf_MT
+show atm cell-transport
+导出密码常用词
+出向流控
+NID组
+C405630027
+DR地址
+测量类型树
+show running-config cgn
+配置索引
+XID参数协商
+周期性发现
+decline
+INTRAAMFMOBILEREG
+对端故障
+新建
+COUNTER
+是否顺从R9协议
+查询通用日志
+控制台
+Security Context
+分片ID
+激活拒绝消息
+DELETED
+默认签约APN带宽配置
+PLMN12
+786955
+解耦
+专家模式
+主备决策
+N17接口
+SDM_CMS_0
+NRF服务器
+优化切换
+创建进度
+TEARDOWN
+profile
+租户资源管理
+归属网络公钥标识
+service_rsp
+角色列表
+1257
+Update Bearer Response
+QFI容器信息
+RCP网元
+电视
+REGISTARTION ACCEPT
+设置是否支持APN接入控制
+参数范围
+Template
+Clock is synchronized
+Modification
+输入参数
+EMS设备管理
+Modulus(bits)
+CBC
+NF Service Consumer
+Options
+增加
+GPRS服务不允许
+热备容灾Pool
+BSC
+connection retry
+异常畸变
+用户状态
+C510050025
+流量丢弃率
+容量不足
+查询全局参数配置
+Send
+拥塞
+主备状态
+业务流程成功率
+本地路由
+HTTP2.0
+NG AP
+Illegal UE
+卸载
+业务配额状态
+计费响应消息
+出向丢包数
+UDT
+来源
+ovs
+Local breakout
+老化清除次数
+故障率
+403 Forbidden
+备份输出路径
+S-NSSAI
+Group ID
+出向网络利用率
+SHOW SBINSIARRPARAM
+being packed
+密钥对
+短信全局配置
+范例
+取样
+key
+directory
+DGT
+Resource
+流量消耗
+B点
+supiseg
+IP DSCP
+全局及以上配置模式
+请求消息
+有效的发现参数匹配
+锁定期
+技术专家
+主基站
+签约检查
+4级路由编号
+win_size
+smartgroup接口模式
+GSU-C8-E
+网元
+移动性策略
+N15会话
+分离请求次数
+运行状况
+3GPP 33.501
+lmi-n393dce
+LDAP/LDAPS认证
+UNLOADUSERAMOUNT
+normal状态
+TOS
+拜访网络
+分网元测量
+调试函数管理
+周期性注册流程
+发送AM策略关联删除
+plmnList数组
+virtual
+SHOW AUTO STRATEGY
+云环境租户
+CHFID
+ac-pwg-name
+OC-OLR AVP
+SDN组网
+HTTP-LB
+告警查询
+config
+Update PDP Context Response
+SSP
+Root Tunnel
+Update
+角色用户
+查询条件
+Npcf_UEPolicyControl_Update_Res
+非注册态
+SUPI号段
+业务策略信息
+特定移动用户
+域名解析请求消息
+MAP层
+DELETE PDPCTX:
+C405690082
+计数器描述
+done
+注册
+去活PDP请求
+RRC信令消息
+SHOW RESOURCE THRESHOLD
+Origin codes
+SHOW RAIZC
+UE请求承载资源分配失败次数
+Run
+AS参数
+23.501
+数据语音混合
+组参数配置
+totalVolume
+PS to CS Response
+掩码长度
+WORKSTATE
+热备容灾组网
+默认承载
+专题分析报表
+加载
+消息长度
+软件参数ID
+用户原因
+网络名称
+告警日志缓冲区
+license配置数据
+策略类配置模式
+UE策略选择码
+INITCONNPERSC
+preemptCap
+Iu
+Chunk数
+切换流程失败
+成员口
+PLATCOUNTERID
+exceed
+增强P-CSCF Restore流程
+Normal
+Suspended状态
+PIM-VRF接口模式
+窗口更新
+EGP
+支持GGSN IP地址获取PGW主机名
+DNN组编号
+Radio Resources
+频次统计
+配置前提
+API
+槽位号
+删除域组参数配置
+运营商网络参数
+pcrf-failure
+Namf接口
+局间切换流程
+Nudm_UEAuthentication_Get
+网关地址
+寻址选路
+激活请求
+Modify PDP Request
+处理步骤
+C432010100
+UDR
+省信息
+通知UE
+方法名
+ADD APN STATIS
+ND邻居缓存表
+MME的APN接入限制配置
+目标NF类型
+DNS服务器错误
+Message type non-existent or not implemented
+EEA3
+去注册状态
+时钟源
+控制平面
+SHOW LINKCY
+EMS+_Info
+UE security capability
+修改附加属性
+ARP接口模式
+PDU Session Resource to Release Item
+maximum-joins
+组编号配置
+ignore-rd
+Cause
+局向ID
+数据通信产品
+可用性
+关闭连接
+Global Setting
+本端SCTP模块
+策略控制
+出向错包率
+表彰内容
+MONTHDAY
+超时时间
+combined RA/LA updating
+基本属性
+15
+单项控制
+未激活
+800-830-1118
+ACTIVE
+RP智能切换
+切出失败次数
+MM上下文局容量不足
+一致
+1xx
+SCCP用户
+网卡状态指示灯
+以太接口模式
+服务端安全参数
+5GMM
+PS to CS Request
+traceRef
+NF数据
+VNF列表
+N26
+PPDN Online KnowledgeBase
+show
+更新成功
+Forward Relocation Complete Notification
+PLMN ID列表
+兼容性
+GUAMI组编号
+外来表项
+allocatedEbiList
+卸载状态
+Request Failed
+ADD TAIZC
+PDP会话
+SBIPIMNSNSSAIARRID
+CPU
+ESM失败原因
+Remove
+null
+Unknown Target ID
+Delete
+CommonS_SIG_0
+普通代理模式SCP
+DNS
+改变通知失败响应消息
+删除GMLC信息配置
+NAT端口号基准
+局内
+数据类型业务请求
+差异化服务
+访问控制
+剩余有效天数
+实例化网元
+SET MTOLMSGPRIORITYCFG
+角色名称
+DAYS
+APN扩展
+Identification Response
+ipv6
+ISP
+C405330091
+客户收益
+进入业务
+RAT限制策略模板
+GPRS services and non-GPRS services not allowed
+loopback1
+3XX响应数
+IPv4地址
+GBRUL
+安全检查操作命令
+FRNS
+NRF_TYPE
+query-max-response-time
+消息安全检查未通过
+Non-Circuit-Related
+Charging
+手工弹性缩容
+PGWCSMFSELECTPOLICY
+配置参数
+C430010067
+License运行状态
+门限不合理
+NF/NFS
+磁盘空间大小
+其他业务
+路由指示组编号
+Sv切换失败原因
+RATRESPOLPRO
+命令终端
+VLRPOOL
+C405760039
+模式
+内存数据库利用率
+Policy Control Function
+去激活流程
+阀值
+批量
+峰值传输数据包速率
+PDP
+sliceServiceType
+CDN
+功能特性
+show isakmp user-group
+主要建设内容
+Negotiation and Inform UE
+IPV4 ICMP协议
+进程实例号
+运维人员
+IPv4-OSPF模式
+UE
+参数类型
+created
+订购堡垒机
+时延
+route-target
+C430070050
+修改组织配额
+用户多会话汇聚
+gei-0/1/0/10
+子主题
+Identity Response
+TIMES
+SGs口
+METHODTYPE3
+Modify EPS Bearer Context Request
+解码失败日志
+颜色
+使用说明
+smartgroup子接口模式
+技术支持工程师
+authentication template
+IuPS口
+Nudm_SubscriberDataManagement_Notification
+RST_STREAM帧
+网元间接口
+Sequence-num
+SupportedFeatures
+逻辑网元实体
+C431000001
+Advertising
+ge
+GPSI号段
+跟踪深度
+combined attach流程
+外部SOAP服务端
+MT
+数字
+match ip next-hop
+statistics
+策略时间类型
+监听
+消息不兼容
+LOCATION_REPORT
+C514500033
+大区部署
+PFCP
+小区管理
+IUA
+解除用量监控关联
+Communication服务
+Dedicated Core Network
+config-cmap
+ds-te
+详情
+786809
+链路故障
+命令助记符
+支持基于号段选择UDM
+策略配置
+External
+IFSPRTCMPBACKUP
+负荷卸载通知
+策略启动时间
+262423
+AVP相关匹配方法编号3
+EPD
+Diameter信令跟踪
+pwe3
+校验
+消息中心
+PCF_Rosng_config
+发布按钮
+Gb口接入
+max-connect
+AMF_158
+相关命令
+查询NSE关联路由区
+onecon
+OFFICESENDFLOWCTL
+bestpath
+supiSeg
+无线子切片设计
+用户签约数据
+哈希表
+概要分析
+未指定失败
+RECORDNUM
+NF类型组编号
+PDN Connectivity Reject
+坏报文
+C520220022
+远程访问
+策略下发流程
+metric
+Extended service Request
+发送失败
+SMC
+Servcie Area
+策略授权会话
+Npcf_SMPolicyControl_Update
+NETYPEFLG
+datadisk0
+R11
+数据网名称
+TCP连接个数
+附加属性标识
+DESTADDR
+SET_GBASE_CONNECT_MONIT
+discoveryModeProfileId
+组网约束
+ACTIVEFLAG
+按链路出向流控配置
+hMME
+Length
+NAS IE编码格式
+NG-C接口实例
+签约改变
+Npcf_AMPolicyControl_Update_Res
+数据异常
+UDP协议
+错误码
+跨AMF流程
+Flow
+SHOW CDBNODE
+发送策略
+本地时区
+AMF re-allocation
+新建参数按钮
+报文缓存
+SHOW SOAPACC
+Copyright © ZTE Corporation
+工作表配置流程
+目标AMF
+资产编号
+self-originate
+非优化切换
+本地配置数据
+局间
+Metric
+路由选择策略数量
+preemptVuln
+SHOW OAUTHTOKENCHECK
+CPU拥塞预警门限
+Loop Scan Interval
+预配置
+UL NAS TRANSPORT
+VLAN配置信息
+离线计费
+新增地址池配置
+C405390017
+LACP
+查询状态码模板参数配置
+Handover
+再分配
+上送数量
+576 NRF
+业务类型
+网元设备升级
+evpn_key_network
+参考计数
+部署报告
+Assistance Data
+ueReachPriority
+address-mask
+内部读写错
+正常携带
+漫游地流量
+SCCP数据
+5G NAS消息
+DISPLAYNAME
+保活数据包
+跟踪区
+移动国家/地区代码
+UPF负荷分担
+性能监视
+数据包字节数
+mam
+International Mobile station Equipment Identity
+参会人员
+扩展属性
+返回结果
+计费控制
+订单号
+InTag
+Comment
+5GC日志查询
+分离成功次数
+优秀员工奖
+SHOW TZAREA
+HEALINGSWITCH
+创建PDP失败次数
+NG-RAN节点
+CALLBACKMODE
+clear
+链路拥塞
+UDS按全局统计
+Gb口接入模式
+权限
+异网漫游
+SCGROUPNUM
+NPCF_AMPOLICYCONTROL
+组播组
+备份日期
+工具仪表
+默认门限
+SC性能对象配置
+双活系统
+弹性缩扩容
+统计局内
+metric number
+ZONEID
+号码分析数据
+CPU过负荷
+MS流控
+管理类命令
+MSG_LOOP_DETECTED
+eNB
+Route Distinguisher
+负荷控制等级
+ssh server username
+C558510037
+链路级流控
+实例号
+ALC
+PDN连接
+SRVCC切换
+AMF_TYPE
+DEL IPTRIPLETUPLE
+Create PDP Context Request
+DIAMETER_UNABLE_TO_COMPLY
+PLMN NID列表
+URI
+cancel
+nistp384
+显示器
+Registration Request
+Npcf_UEPolicyControl_Create
+sftp
+地址组编号
+MEC
+产品类型
+pwg-name
+非共享gNB
+长序MP头
+ipv4-access-group
+serversst
+可靠性
+503
+SBIPIMNSNSSAIARRPARAM
+重要阈值
+unicast
+Notify消息
+prefix-filter
+策略决策
+虚机名称
+Advertised prefixes
+消息
+中移4A认证
+IMS
+卸载初期用户数
+业务逻辑
+专有承载激活失败次数
+自动流控
+Recover from Congestion
+APNNI
+AS号
+Nlri
+手动停止
+ZG-JS-NJ
+网元级容灾
+REGISTRATION ACCEPT
+Attach Reject
+NULL-NRI
+地址过滤
+Diameter局向路由配置
+帧前导
+IP配置
+SEPP
+MAXRETRYAFTER
+故障处理
+实例化参数
+Network Address Translation
+System
+告警影响说明
+config-bgp-1-af-rt
+rip
+dnaiList
+vPLMN切片
+node
+描述信息
+OSPF
+告警产生
+class-map
+已选
+Location头部
+C559150015
+httpStatusCode
+查询默认签约APN带宽命令
+策略与计费控制执行
+已查询数
+NAS ENCRYCTRL
+单队列中断绑核
+Corporation
+SET DEFAULT
+787102
+犯罪组织
+备份文件名称
+ESM
+suppress-ra
+鉴权向量
+三层VLAN接口模式
+C510110031
+EIA2
+终端用户状态数据
+IP分析
+自动生成
+2099167
+SSD
+删除GUAMI组参数配置
+NSI
+IP地址抢占
+HTTP/1.1
+外部网络
+删除默认对等PLMN
+命令执行成功
+保活请求
+下行业务
+SET DALOCSFTPSERVER
+无效的选路上下文
+SHOW SBISCPSERVER
+releaseEbiList
+紧急业务策略
+策略决策生成网元
+Sx会话修改请求
+每实例每秒通过业务最大个数
+时间间隔
+第三方认证服务器
+SM/TM
+EPC APN统计配置
+Modify Bearer Response
+日志数据采集
+使用场景
+容量
+BGP-IPv6-VRF模式
+密码
+Dropped nlri
+移动终端
+bandwidth model
+实例重启
+加密参数
+created-and-deleted
+信令包
+REJECT
+2G用户
+阶段2
+C520220134
+QCI
+PLMN S-NSSAI组参数配置
+AMF Set
+NPcf
+最大建立时长
+过负荷业务通过率配置
+Overload Start
+对象ID
+NetNumen
+C510010075
+无效信令抑制
+Color extended community
+查询注册成功率
+过负荷控制
+第三方服务器
+ip
+业务经理
+NPCF_SMPOLICYCONTROL
+ST_OAM_UMAC_118
+UE/MS
+Context
+UDTS
+Path Switch Request Failure
+内部进程号
+打分
+EPS
+SHOW LOAD CONTROL REJECT RULE
+原因次数
+Non-3GPP
+同步MM上下文
+PGW
+接收SM策略事件更新总数
+申请缓存
+服务使用者
+业务流
+Access
+下载
+取整操作
+Resource to Release List
+N3上行链路
+入局请求消息
+中兴e读
+项目名称
+Iu释放原因
+C510010026
+POL_COUNTER_ID
+Attach
+OCI控制参数
+USERTYPE
+Tracking area not allowed
+精细分析
+C557210009
+rtpref
+广播包数
+服务区列表
+当前使用率
+QER
+2G接入用户
+虚机
+软件参数值
+多条件逻辑表达式
+查询报文使用率告警门限
+用户平均数量
+TAI
+inconsistent
+ah-md5-hmac
+端到端
+告警管理
+md5
+业务需要
+querier-timeout
+OFF
+模板标识
+MANO实体
+PS
+SCTP模块
+DEL ADDATTR:
+DEL SPECDRA
+kafka端口
+No suitable cells in TA
+T3448
+SSN
+Function
+输出参数说明
+总长度
+AM策略关联删除
+开关
+路由集
+替换类流程冲突日志
+批量修改密码对话框
+接收UE位置事件
+ESI
+RELEASE
+License模板
+本地优先级属性
+超级管理员
+ipv6-addr
+native
+C513500001
+Requested service option not authorized
+耗时代码
+txt
+网络功能
+性能
+虚机部署状态
+Diameter路由组ID
+历史跟踪数据
+移动用户
+DEBUG开关
+运营商
+no-export-subconfed
+TAU拒绝
+NF2
+SGP
+Path SwitchRequest Ack
+unspecified
+SET DEFBW
+OAM数据库文件
+数据库进程
+签约永久标识
+用户面链路
+Resource HandoverList
+南北向接口
+端口
+Rx接口
+性能数据
+no
+ems+
+发送报文
+AMFP0OL_1
+MAP协议
+Identification Request
+控制策略配置
+OK
+版本包管理
+Sy Session
+数据流
+C556170025
+正装
+出向错包数
+PM_Log_Query_Request
+IPS
+GAP TSN
+MBRDL
+出向发送消息
+兼容开关
+5XX
+IPSELECTMODE
+成功响应
+信令连接控制
+AVP相关匹配方法编号1
+C431060026
+port-ACL
+DCE
+SSM
+ipv4-address
+CG服务器索引号
+IP头
+Optional
+SET 5GC INTERWORKING
+源GT地址
+Director
+网络传输故障
+Origin属性
+DNN替换请求
+create
+LDP会话
+扫描
+PDU会话
+接入基站
+实际接入
+R9协议
+LA
+表资源名称
+解析
+SHORTNICODEPLAN
+对象描述
+服务类型名称
+PGWBYGGSNIP
+MSIN
+CHECKSUM
+HLR原因
+relative
+DSCP字段
+Network Service
+无法新建
+S101隧道
+拥塞发生时间
+对端ULP
+TLS协议版本
+附加属性配置表
+用户去注册
+LOCATION
+actual freq
+262658
+保活
+PTI
+SET MMESGWLINK
+路由选择表
+SOAP客户端配置
+Service Request
+SET SBISCPBASICATTRIBUTE
+OCI
+系统
+会话更新重发消息
+DICT
+OTHER
+BVC重置
+L2
+加密套件配置
+update
+预定义词典
+重选目的NF
+C000180100
+N1消息
+config-route-map
+端口流出速率
+4G
+配置说明
+SET PWS STRATEGY
+Npcf_PolicyAuthorization_Delete
+接入类型报告事件
+路由携带
+QoS Flow
+Next Hop
+规则名称
+必选项错误
+acl-name
+DDoS
+SHOW SBINFSETIDARRID
+PFID
+C559010003
+ASPID
+S11-U口
+字节吞吐量
+网元选择
+Semantic
+SERVERPORTEND
+IFSPRTAMFQUERY
+Request
+记录类型
+服务化接口过载控制
+负荷重平衡
+事件通知
+QUERIEDNUM
+定时器编号
+输出端口
+C430070045
+粒度
+TECS
+V2.02.B19
+短信缓存时长
+查询记录数
+::ffff:1.1.1.20
+beg_rcc_time
+云化基础设施
+LLC
+EMS+
+封装模式
+NFID
+遵循标准
+be
+流程冲突
+Transport Network Layer Association
+timers
+404
+eKSI
+.txt
+请求次数
+去注册原因
+客户端动态链路
+STR消息
+安全模式请求
+IDE0
+成功日志
+网元功能层
+交互类业务
+P100510027
+SHOW VLROFFICESTATUS
+SHOW SERVICEAREACODE
+校验策略
+C431070041
+重叠
+HTTP状态代码
+RAT切换
+SM上下文状态
+流控
+C405270030
+数据表
+Many
+接收
+局内移动性注册流程
+APNSGSCTL
+S1UeNetworkCapability
+默认容量
+规则名
+MPU-0/26/0
+Single Network Slice Selection Assistance Information
+S1APCASUE
+会话失败次数
+Attach Accept
+SET COMBOCFG
+Nsmf_PDUSession_Create
+C000040007
+路由择优
+查询测量对象类型
+创建会话响应
+MP
+CHR报文
+IPV4
+子接口
+fe80::2e0:d0ff:fe21:203
+SPR
+Dept
+设置重点告警监控条件
+CG
+对端M3UA对等层
+SGW
+操作结果
+手工备份
+GTP-U
+Handover Type
+变换
+LOCATIONNAME
+alarm
+ZUF-79-10-011
+IMS PDN
+C100540005
+CG Profile
+Nnssf_NSSelection_Get_Request
+S1口切换
+模糊匹配顺序
+切换原因
+WCDMA_6
+NFV票据认证
+ADD RAI
+RAB信息
+ZUF-78-05-005
+STA
+SHOW VNF
+用户组
+默认级别
+EPS网络
+IPDOMAIN
+危险操作一览表
+包
+1~65535
+on
+弹性链路开关
+mgmt_eth
+Uptime
+host-key
+HTTP 307
+去注册
+业务异常
+TIMRNO
+Target Cell
+附着请求次数
+测量对象类型
+AssignEbiData
+CONFIGUREDSNSSAI
+开启关闭
+表数目
+duplication
+数据APN
+zdh
+EM接入管理
+UME客户端
+segment type
+IPv6 Internet
+业务签约日志查询
+AAR
+Path Switch Request Acknowledge
+信令对接
+Nnssf_NSSAIAvailability_Update
+APN更正日志
+资源容量
+上行短消息
+起始时间
+链路流控
+数据库表
+域组
+检查历史告警
+Nnssf_NSSAIavailability_Update
+搜索条件
+不允许
+PSA1
+多出口鉴别属性
+默认承载建立时长优化参数
+建立总时长
+信息传送应答
+数据传输效率
+IPVERSION
+Path Switch Request
+SET GLBRESELECTPLYCFG
+HLR未知
+neTypeList
+磁盘数据
+抓包端口
+CAMEL上报事件
+UDM
+失败
+VALUE_ADDED_SERVICES
+200 OK
+网络功能ID
+Established
+解锁表格
+mpls ldp instance
+trunk
+show local-user state
+Namf_EventExposure
+转发SM策略关联更新
+SFTP服务器根目录
+NetworkSliceInfo
+URI版本号
+下载者
+分词词典
+业务配置模式
+自动备份任务编号
+SET SBIPLMNSNSSAI
+已选项栏
+time-high-and-version
+组播包数
+NE类型列表
+静态规则
+Implicitly detached
+保活倍数
+处理CSFB
+掉话率
+FromPeer
+网元粒度监控
+信号处理流程
+LAC
+ingress
+一级告警
+失败重选
+虚机磁盘
+单位时间
+AMF局间切换
+当地办事处工程师
+内部通讯异常
+在线URSP规则数均值
+公共陆地移动网网络标识
+C510020001
+反压策略
+运营商拨测场景
+耗時
+业务临时故障
+切换流程
+EM网管客户端
+Namf_EventExposure_Notify
+流程交互时间
+SHOW SCINFO
+C431000008
+处理策略
+对端端口Down
+特性交互
+REPMETHOD
+策略执行规则
+周边网元过载保护
+多网号
+FAIL
+采样间隔
+经度
+重点KPI
+应用数据
+Nnrf_NFManagement_NFUpdate
+修改接口兼容配置
+time
+接入信息
+路由集ID
+C405310007
+LOCKTIME
+TA编组规则
+副本ID
+次要
+GMM cause
+国际漫游
+跟踪参考
+Namf_Communication_0
+DEL DIAMROUTEGROUP
+业务迁移
+功能描述
+C405690083
+内部人员
+Pre-Rel-8
+可用
+SERVICE REQUEST
+Routing Key
+waiting
+show debug bgp
+PLAT
+PDP上下文
+TCP半连接个数
+MEP管理
+失败原因
+用户类型
+LocPrf
+组网架构
+接入限制原因
+过滤规则
+测量周期
+DSA
+配置容灾
+安全
+a-f
+NFStatusNotify
+会话接入
+CAMEL无响应
+config-mppp-if-multilink1
+简要信息
+GTP-C V1
+协议失败
+命令格式
+OAuth2证书名
+ADD DNS SERVER
+Nsmsf
+SET TZAREA
+Gs口
+AVP相关匹配方法编号4
+时区事件
+下行缓存
+nemo.log
+字节总数
+挂死
+DEPLOYMODE
+FJ-DX100-S3
+海啸
+处理报文能力
+Initial
+电信设备
+Target eNodeB
+pim
+UP虚机
+持久化存储
+去活
+IP版本号
+Criticality Diagnostics
+CSFB业务
+SCTP Link ID
+DelSessReq
+task
+安全上下文
+UNSPECIFIED_MSG_FAILURE
+raizc02
+cir
+Delete PDP Context Response
+申请释放管理
+SNSSAIID=1
+PDP激活失败次数
+ADD RESOLPCFSEGCFG
+系统内存不足
+set
+healingswitch
+Ngmlc_Location_LocationUpdate
+Attach Request
+C510500002
+Deadtime
+MAC地址
+基础数据备份列表
+账号密码删除有效天数
+非法访问
+EMPO计数器列表
+查询跟踪区模板配置
+remote-ipv4-address
+PGW-C
+shaping
+目标侧AMF
+bits
+DEACTIVATE PKG
+EEX Binding信息管理
+命令
+UMM
+SUBEDIWK5GSINDPOLICY
+网元名称
+根用户组
+管理平面
+pool
+号段
+AVP相关匹配方法类型编号1
+配置生效
+ed25519
+precedence
+高价值业务
+事务模式
+任务名
+已确认未清除
+C模式SCP
+prefix-list
+PWD
+位置区
+通信网络
+UpdateNotify
+Peak
+新开局
+回滚事务
+私网
+静态服务发现
+SHOW DM USGBASE
+服务发现请求次数
+调制器
+Inbound
+加密用户标识
+确认数据包
+备份选择
+必选IE
+PDU Session ID
+EBIALLOCREGUPDATE
+拒绝策略
+Create_Res
+message
+4级路由类型
+NF管理
+MsgRcvd
+管理和编排层
+出向消息拒绝率
+设置MME支持用户全量数据备份容灾恢复策略配置
+License受控项信息
+内部消息
+TAI范围组编号
+卸载取消类型
+订阅请求次数
+IP优先级
+开启
+SPECFAILLOGFLG
+数据一致性
+本端SFTP服务器配置
+Deletion
+GT参数变换
+文档包更新
+命令树目录
+pppoe-client
+AM策略
+peer-ipv6-address
+SET SERVERSECPARAM
+S11-C
+C000180328
+告警状态
+DEREG USER
+SHOW SOFTWARE PARAMETER:PARAID=393238
+用户体验分析
+DEL ADDATTR
+X2切换
+C000180333
+接口号
+告警阈值
+Start Port
+用户业务流程
+丢包率
+代理进程
+对象值
+配置远程用户组
+1301
+附着失败
+triggers
+策略计数器标识
+联合附着
+掉电
+SBITLSCIPHERSUITES
+IP协议号无效
+RRM
+all
+未收到ESM信息
+destination
+1024
+data back-off timer
+业务流程失败
+ASPINACTIVE
+Location Area Code
+Stateless Load Balancer
+C405180190
+节点CPU占用率
+找不到对应PDP上下文
+简单密码认证
+网络资源
+虚拟内核个数
+路由重选
+配置原则
+netsecadmin
+CRA
+终止回滚
+字节长度
+DEL SUPI CONFIG SNSSAIID LIST
+DNAI
+业务进程
+RESET SYSTEM
+Peer-group-name
+C433010004
+C556150021
+DCU
+NAS Security Parameters
+取值含义
+非替换类流程冲突且成功继续日志
+config-bgp
+取值来源
+C558550037
+supudmnumsel
+订阅数据
+发送SM策略关联更新
+修改自动备份策略
+entryServlet
+通信数据
+PCF
+SGSN局间
+保存
+基本用量
+MNC
+Update Forwarding parameters
+EIA1
+Gn/Gp
+缺失属性值对
+SHOW MME IMSI TAIZC
+Default Paging DRX
+本局移动数据
+NRF信息
+网络
+TAU场景
+报错信息
+USERID
+TA组
+C464050003
+RK
+操作状态
+tunnel-group
+流程
+C559010039
+NRF_Info
+SNMP访问
+Key-Type
+Gs口位置更新
+虚地址
+许可证发布
+RSVP
+路由更新请求
+HTTP PING探测
+定时同步
+比特速率
+修改按钮
+IGMP模式
+VLR局向
+取值
+5QI
+非法用户
+MO编辑器
+SET MME IOT CFG
+Bearer Resource Allocation Reject
+FRAGFLAG
+C510020033
+DIAMETER_MISSING_AVP
+规划数据
+信令子系统
+业务请求流程
+排查
+拒绝原因值
+智能交通运输系统
+网元状态管理
+C405810060
+control-protocol
+logging nat zip
+EEA1
+time-low
+删除非直连重选状态码配置
+IMS APN
+虚拟化网络功能
+显示信息说明
+C405510081
+媒体面
+目的NF类型2
+DEL PCSRATE
+router pim
+数据缓冲区满
+查询测量类型
+用户事务信息
+重发寻呼消息
+导入
+DEFVAL
+控制面安全子接口
+EPS Bearer ID
+最佳新人奖
+SERVERPORT
+业务请求过程
+重选动作
+profile-tag
+Discovery Request
+拜访地切片
+CMP
+ADD NSSAIS
+实例信息
+定时器时长
+2G
+路由标识符
+网元数
+PDP上下文激活请求消息
+安全检查
+虚机名
+业务请求拒绝
+R15
+Target AMF
+公网
+采样频率
+4A票据认证
+C557210050
+Handover Notify
+Total
+业务失败原因
+CTRLTOPNUM
+alertReason
+Handover Required
+根源告警
+USER_UNKNOWN
+会议地点
+鉴权拒绝
+CSFB
+version
+域名
+中国联通场景
+创建用户
+执行数据回滚
+状态报告
+NFSETID
+性能查询
+仅删除
+C557000004
+150107
+告警数据库
+数据中心
+基本数据配置
+承载优先级
+允许数目
+C558510089
+SHOW DIAMERR EMM
+SET SPECDRA
+ManoAutoDeployment
+简单架构
+APN
+C432010045
+默认处理建议
+业务流类型
+成功响应消息
+源邻接局号
+显示名称
+网管系统
+数据请求
+N36接口
+翻译类型
+删除容器
+VPN名称
+整局重启
+ADD APN CONGESTION POLICY
+MBRUL
+配置页面
+内局内切换
+S1释放切换限制
+单位
+NSSF容灾
+重定位请求次数
+snmp-server community
+SET DPCCPARA
+Rx接收AARI
+动态资源使用率
+JSON编辑器
+supportedFeatures
+Subsystem
+全局属性配置
+HLR
+DIAMETER
+Identity Request
+邻接路由器
+C430150012
+C510300029
+Protocol Discriminator
+Interaction with other procedure
+失去连接报告事件
+BASEFILENAME
+EBI分配请求消息
+vpws
+保留用户千分比
+AMF FQDN查询
+原因模板标识
+running-config
+epsBearerSetup
+负荷状况
+MBUF资源
+SWITCH_OFF
+SUBSCRIBER
+C405850001
+创建VDC
+字节/秒
+Resource Type Prefix
+以太网
+不可达
+定时任务
+用户内存
+告警设置
+MAP-READY-FOR-SM
+局间联合路由更新
+流量整形
+部分失败继续创建
+MO-LR流程
+3004
+集中式数据中心
+ping
+DNS Query
+SHOW SBINRFGROUP
+C557030015
+内部错误
+策略状态组
+整表同步
+H.248
+Sy/N28接口
+SHOW USER NUMBER
+IPsec-transport模式
+属性参数
+NAS
+聚合命令
+EPC
+SET MBUFUSAGECFG
+使能
+Fallback
+786562
+用户不可及
+切换取消日志
+Routing
+NSSF
+DATA类型
+数据丢失
+MAXCONNPERSC
+UTRAN
+2C纯语音
+DEL DMBINDING
+ADD SBINSIARRID
+附着失败次数
+Generated Reason
+对端端口
+负载均衡器
+ETSI
+业务流程
+C405720011
+Iu口接入模式
+按链路入向流控配置
+namenode-1
+通讯
+终止计费会话
+选择失败
+域名分流
+IP
+承载去激活流程测量
+UNCONTROL
+异步命令
+ISAKMP
+Py_1112
+E1A2
+鉴权请求
+业务流描述器
+Asia/shanghai
+BGP-IPv6模式
+查询模板
+DesAlarmCount
+C/S
+付费方式
+CIDR
+per-destination
+PDP激活
+过负荷状态
+Gb口
+SSH配置参数
+PSKSETNAME
+cudr_1
+闭塞
+信令
+Dnn
+THRESHOLD
+RCP策略管理
+GPSI
+默认族
+订阅状态
+ADD IMS APN
+5002
+EM测量对象编号
+交互式
+operation
+2114322529
+SCP功能开关
+673
+AutoRouteMetricType
+QoS类型
+地址性质
+消息序列号
+修改分区标识配置
+移动网络
+Nudm_UECM_PCscfRestoration notification Request
+ospf
+C510010052
+权重因子
+start-time
+认证公钥
+关联删除请求
+附着成功次数
+max_seq
+PERIODICREG
+Iu接口
+ICMPv4
+分类
+Voice
+SHOW GTTI
+Status codes
+OMU主用虚机
+ID
+oam
+水灾
+WEEKDAY
+PDU Session
+C514500019
+N4会话修改请求
+fallback
+ROLEDES
+数据包源地址
+Activate PDP Context Accept
+frpt报表数据
+URSP规则
+originating
+PLYAFSELSMFFAIL
+IPsec隧道
+UMTS
+权限级别
+IMEI黑名单日志
+ISNOTIFY
+PCID
+786510
+PUT响应
+C430110026
+寻呼请求次数
+AMF Name
+降低业务请求频度
+DEPLOYAFTERDEL
+time-mid
+发送UE策略关联应答次数
+TCPRSPTIMER
+上行NAS传输请求个数
+Framework
+默认实例
+完善架构
+CommonS_HTTP_LB_0
+回滚区描述
+语音业务网元
+三方命令
+cgn-spu-auto-add
+Locality
+DNS Server
+创建RAB
+Delete PDP Context Request
+IMPACTINTRAROAM
+失败响应码
+color-value
+GPRS附着失败次数
+局间RAU
+国际用户
+过载控制
+GUAMI标识
+v6_tunnel
+备份过滤方式
+复制消息流量
+NG-RAN
+10-15
+FCC
+国内用户
+no rp-smart
+切片
+Server-Assignment-Type AVP
+MBUF资源告警信息
+Target to Source Transparent Container
+缺失项
+ems
+C520020067
+PDN连接失败次数
+网投信息查询
+专有通信硬件
+弹性伸缩
+SGSN Context Request
+计数归类
+debugging
+地址池ID
+全网络地址转换
+去激活会话时长
+角色标识
+故障状态通知
+级别
+跟踪管理页面
+MEDIUM_WO_VENDOR_EXTENSION
+C520020007
+每个SC的NAT端口号范围
+子网ID
+CFGSWITCH
+二维码
+增加校内基站识别码
+消息限制类型
+备份服务器
+软件升级
+配置ARP
+重大节日
+Subnet PortIpList
+未授权
+基本操作技能
+SET SGSCONN
+测试用例
+附着成功
+后付费
+目的端口
+doc@zte.com.cn
+PGWRSTOFLAG
+logger
+用量监控策略
+VoLTE
+客户端连接策略配置
+GT地址参数
+Refresh
+绑定信息
+无UDSF部分备份
+records
+C510630031
+自适应节流
+忽略
+SM
+核心网
+N2InformationClass
+ACTIVATE PKG
+C430110051
+网络切片实例
+联合硬切换
+mLDP-P2MP
+用户接入
+1xCS
+ratingIndicator
+最近登录时间
+唯一关键字
+gei-0/1/0/2
+turned
+锁定策略
+NIF统一选路
+信令分析仪
+mobile
+最大上行请求带宽
+max-user
+CPU信息组合对象
+reattempt
+SOAP接口
+流程测量
+NAS拥塞控制
+特殊字符
+netsecdept
+AMFSETID
+NF节点
+路由映射模式
+C432030020
+N11接口
+BAR ID
+500
+EMM INFORMATION消息
+3305242928
+mme90
+告警屏蔽规则
+SHOW ETHPORTLIST
+Nnrf NFMangement NFUpdate Request
+服务范围
+SC上电时间
+查询NRF服务器节点配置
+Err_packets
+PORT
+SIP MESSAGE
+RELOAD_ULFILE
+测量
+修改SCP基本属性配置
+漏洞攻击
+计数器
+NRPPa
+数据包数目
+网管服务器
+能力开放
+C000180311
+修改承载响应
+TinTC
+VoLTE业务
+Session Management Function
+262544
+仅备份
+删除DNS缓存
+online
+协商LCP
+子系统状态查询命令
+Fail
+软件参数
+GMM原因值
+子槽位号
+修改影响
+smartgroup1-3
+UE策略关联建立
+性能极限
+编码器
+负荷卸载
+增加AVP
+统计粒度
+连接数目
+Response消息
+METHODTYPE1
+link-state-id
+数据配置
+密码字符策略
+TCPREBUILDTIMES
+Caused Code 111
+设置为0
+短信注册
+访问列表类型
+云环境用户
+地震
+会话失败
+基础配置
+修改测量任务
+TAC
+gei-0/3/1/8
+签约
+LMF
+UE路由选择策略
+iDeploy
+NF_CONSUMER_REDIRECT_ONE_TXN
+承载网
+网络侧失败
+IMS呼叫跨区延时下线
+字符串长度范围
+统计局间
+C520210020
+C557200015
+Identity type
+ADD SERVEDAREAS
+十六进制
+操作员
+307 Redirect
+type
+信令风暴抑制管理
+交换局
+发送AM策略关联
+C557200044
+G-PDU
+Set ID
+非法设备
+DRA_Info
+鉴权拒绝消息
+策略计数器
+message-digest-key
+*.LCS
+背景类业务
+注册更新时长
+重定位请求
+范围
+BGP状态
+用户信息
+传输层
+INTEGALGO
+SHOW
+Floating IP
+Max字节
+OS
+PLMN速率限制
+数据区
+NRF服务器模板编号
+SGW链路类型
+Monitoring Key
+C405110011
+Cancel
+普通用户
+Support ADD
+组织和VDC管理
+C520220079
+非拥塞小区
+移动性注册请求次数
+消息长度错误
+未确认
+activate PDP context request
+融合PGW-C+SMF
+12
+向上取整
+openflow
+echo版本
+SHOW MBUFUSAGECFG
+角色描述
+1519
+备份恢复页面
+Npcf_LOG
+ADD MME IMSI TAIZC
+空余内存
+OUTPUTPATH
+Number
+评论
+MLMTINTERCAUSE
+显示图形
+IP协议号
+HSS
+归属网络标识
+TS
+IPU虚机
+权限滥用
+表记录数
+NFV
+上报阀值个数
+CPU负荷
+参数设置
+vrf_none
+Deactivate EPS Bearer Context Request
+vnfm
+修改License基础容量
+default-privilege-level
+INFO字段携带策略
+无效的强制性信息
+修改GUAMI组参数配置
+表头
+前缀范围组
+告警统计
+连接关闭
+用户模式
+更新会话
+校内优惠套餐
+Director管理系统
+NSI组参数配置
+NSE
+maxcon
+VIM Controller Info
+查看定时任务详情
+SHOW DESUSAGECFG
+辅助信息
+ipsec-pool
+紧急呼叫支持标识策略
+解调器
+NetInsight接入配置
+周期TAU流程
+OUTP
+热备
+COMPLAINTINFO
+用户面
+响应超时
+用户别名
+ADD SBINFSETIDARRPARAM
+SGSN
+CDR
+带宽
+Procedures
+smartgroup
+Byte
+PM
+HTTP Response
+Base Station Controller
+清除时间
+数据库安全审计
+3XX
+License文件
+Cancel Location
+路由振荡抑制
+NF状态
+Seq
+数据采集单元
+IPv6地址
+Neutils
+数据还原
+OPR
+ntp
+config模式
+Type
+no debug
+MQCPU
+复制 删除
+陈旧
+接口
+SM策略
+防抖闪断设置
+Control Plane
+Npcf_AMPolicyControl_Create
+BGP router ID
+connected
+业务功能
+支持选择无感分流专用SMF
+SHOW DCQOSMAP
+内存大小
+DNS查询失败次数
+TOP100
+收益说明
+查询时间
+网管类操作
+DEL SBISRVDISCOVERYMODEPROFILE
+authorization template
+INCREF
+ldp
+省内网元
+无法顺从
+Successful Resource Allocation
+引起原因
+NWDAF
+Deploy
+报文接收数量
+导出已选
+SctpDataInd
+pos12-0/11/1/8
+组播
+MMEWEIGHT
+先删再建
+holdtime
+连线
+源RNC
+UME
+evi-label
+清除
+运营商标识
+CPU拥塞紧急预警门限
+物理机
+携带策略
+旁路
+排重处理
+Caused Code 101
+公钥加密类型
+自动路由
+SFTP用户名
+寻呼流程
+外部信令请求
+Gf
+控制消息
+PLMN_OPERATOR_BROADCAST_SERVICES
+process-id
+Req(790 tps)
+删除NRF服务器节点配置
+atm-cell-vcc-params
+必选参数
+释放SMContext
+Release
+切出请求消息
+建立时长
+表级配置更改
+负荷采集
+集中安全
+database
+SHOW SBIPEERNFEXTINFO
+Sx会话建立请求
+Network Provided Location Information
+＜range＞
+业务配置
+删除PCSRATE信息
+错误超过阈值
+调试信息
+系统设备
+5GC
+SM策略关联终止消息
+XUDTS
+gei-0/1/0/1
+Spare half octet
+C100030010
+C431000007
+磁盘路径
+3GPP TS 23.501
+安全管理员账户
+C405070191
+拥塞控制
+应用用户
+删除NF服务版本组编号配置
+复制修改
+本地取整值
+最小软件单元
+ADD SBINFTYPEARRID
+traceDepth
+neutron组件
+注册报文
+C405600005
+GTP V0
+详细信息
+话务分析
+订阅支持的事件
+物理位置
+主持人
+5GC网元
+缓冲区
+home SMF
+SHOW SBISERVSCOPEARRID
+Source Directory
+物理资源
+pps
+参数可选性
+vipsst
+组播路由信息
+从基站
+gei-0/1/0/1-47
+NFTYPE
+CDB_REALIAS
+Technology
+启动时间
+位置
+.html
+剩余受控时长(秒)
+信令面接口
+上层用户
+错误门限值
+SGW改变
+动态参数
+内部SRNS重定位
+拒绝原因
+EPS only
+Gs口业务
+数据包处理
+action
+786861
+mobility registration updating
+NFS补丁
+rrc重建场景
+SHOW NET NUMBER
+局内RAU
+脑裂
+基于IMSI的紧急呼叫支持标识策略配置
+端到端信令数据
+RTID4
+CDN1
+North_Info
+NSIID
+动态偶联
+radius
+收发两端版本
+VoNR
+去使能
+SBIGUAMIARRPARAM
+EMSPlus
+配置权限
+本端SCTP
+改变
+子系统号
+2048
+SET INMSGCMPTIB
+C432010031
+附着用户数
+抑制路由
+SET APN CONTROL FLAG
+二级阈值
+Origin
+在线用户比例
+attribute
+每路由区最大附着用户数
+MSGTYPE
+IGMP
+延迟时间
+测量任务列表
+v
+Secondary RAT Restriction
+SET SOFTWARE PARAMETER
+amf
+service
+As4 path
+access-list
+注意事项
+UE可达使能优先级
+用户签约信息
+C432010126
+No.7信令网络
+业务数据备份
+历史查询
+SBIIPENDPOINT
+C520180010
+容量表数据
+导出
+incomplete
+3GPP
+Namf_Communication_N2InfoNotif
+UE异常信令管控
+BGP-VPNv6模式
+管理消息
+MTU
+邻居关系
+SC实例
+描述
+Available memory
+下一跳
+PROGRESS
+瞬时业务高峰
+用户数测量
+SNSSAISTATUS
+普通告警
+Temporary Redirect
+网络平面
+smartgroup1
+C100030034
+回收再利用
+消息字节数
+3-承载恢复
+replication_rsp
+C405930004
+transform-set
+Traffic
+出向负荷控制
+TCP建链流控
+Namf_Communication_RelocateUEContext
+创建
+本地时间
+raizc03
+负荷控制拒绝策略
+in
+Accepted prefixes
+子接口名称
+变更记录
+E1A3
+SHOW PMOBJECT
+2537180961
+未知SGW
+Npcf_PolicyAuthorization_Unsubscribe
+消息发送次数
+通知数据
+2xx
+上报短信日志
+Presence
+PLMN NID组编号配置
+PLMN_OPERATOR_OM
+时间
+错误类型
+优先级模板组标识
+SGs口配置
+网络侧分离
+备份进度
+SM策略控制
+SET SGSNCFG
+C432050001
+MEDIUM
+测量任务
+AMFID
+工程状态
+跨局
+历史用量
+GT翻译
+修改定时器
+过负荷门限值
+用户面流量
+23273协议
+设置性能数据保存时长
+PWE3 debugging
+cache
+CNLAR
+BT业务
+报表文件
+删除
+C100030030
+库名
+重生
+GTPv2
+METHOD2
+NDF
+Bit
+SGsAP-PAGING-REQUEST
+collectionEntityIpv4Addr
+入方向
+SC未回响应
+4xx
+ZUF-59-53-052
+指标说明
+双连接RAT限制策略模板ID
+C556060024
+RESTRICT
+回调URI
+Direct Information Transfer
+C405770133
+刷新
+子网
+PCA
+S-CSCF
+操作角色集
+MINRETRYAFTER
+MAY_PREEMPT
+全局PIM
+ADD IPTRIPLETUPLE
+缓存
+SET TIME
+阈值
+UnitData
+TSN乱序
+SET APN MODE
+4XX响应数
+取值为0
+OSPF区域号
+KB/s
+N52
+flow back-press profile
+FULLNAT
+话务模型
+信令数据存储参数
+arp
+发送AM策略关联更新失败应答次数
+安全组
+可达性报告事件
+修改漫游PLMN
+数据业务
+PS to CS Respond
+取样周期
+nd6 add
+数字参数
+DEL SBIGUAMIARRPARAM
+5G Core
+Alarm service interface
+cause
+网络分析
+记录数
+漫游用户日志上报策略
+隧道冲突
+告警门限
+错误报文
+UE不可及
+Context Request
+Session Establishment
+源端口
+上报SM日志
+ipv6-precedence
+唯一标识
+NbrCntLimit
+SBIPLMNNID
+SRCPORT
+show rsvp bandwidth model
+热备容灾
+SHOW SGSROUTESTATUS
+时钟维护
+IPv6地址细分
+IMEI
+SUBMIT
+SIO
+interface
+Central R&D Insititute
+UP重启
+LCSAP
+RAI
+重试时长
+debug lldp packets send
+BSS
+区域安全管理员
+stale
+REGISTRATION REQUEST
+属性名称
+IPv6-PIM-VRF模式
+linear-aps
+Invalid mandatory information
+整数
+时区
+local-privilege-level
+ASP
+锁定该角色
+MTP3
+虚拟资源
+C556140024
+N1
+路径ID
+RM-REGISTERED态用户数
+disk space
+PDN连接请求次数
+Expected UE Behaviour
+NFProfileRetrieval
+CUDR
+DETACH
+ISDN
+AMF RESET
+空口广播
+公共告警系统
+GTP头
+建链失败
+访问令牌
+route-policy
+dbms.log
+机框号
+非用户表
+配置传输接口
+router-id
+SET MME GTPC
+完整性保护
+Iu方式
+译码器
+diameter链路
+voice
+minimum-mask
+5GS
+服务发现方式
+EMTYPE
+上报告警
+Service Operation
+用户数
+鉴权失败日志
+数据融合单元
+新增TCP连接个数
+SBI消息
+HTTP状态码
+CR
+客户端静态链路选择模式
+server
+公共属性
+1-1024
+过负荷报告
+Apply Action
+Forward Relocation Complete Acknowledge
+配置问题
+VoLTE接入方式
+PRIORITY_ONE
+n3DlForwardingTnlList
+本局支持
+可靠级
+eNodeB原因导致
+可用NF列表
+统计采集周期
+RETCODE
+VIM云平台
+本局
+Backup AMF Name
+smartgroup接口
+auth
+Delete Session Request
+删除自动备份策略
+PCF节点
+Accept次数
+请求数目
+保持一致
+RANAP
+友好关闭
+SERVICEREQ_TYPE
+平均附着用户数
+SubNetwork
+esp-3des
+链路不通
+A-SMF选择策略配置
+电源插头
+Data Record Transfer Response
+修改|权限
+KnowledgeBase
+400 Bad Request
+translateDC
+C510550054
+IBM-V5020
+状态查询
+SC逻辑号
+NAS消息
+show route-map
+child网络平面
+change notification request
+Gd
+自动备份任务名称
+IP类型
+选择模式
+失败日志
+EPS到5GS切换
+brief
+C403520011
+RT1
+VIP
+SHOW SGSCONN
+GTP-U V1
+shape-rate-value
+流控周期
+背景类
+已确认已清除
+clear ssh server public-key keyname
+锁定时长
+结束定时器编号
+HTTP DELETE
+人为因素
+ERROR_EQUIPMENT_UNKNOWN
+链路
+MAP接口拥塞控制
+BGP-L2VPN-EVPN
+ECMP
+外部
+SBIDNAIARRID
+Gb Over IP
+powerontime
+查看平台服务
+上行流量
+delay
+数据库注册
+master
+查询NF重试信息
+config-rpl
+元数据
+禁止上网
+SBIUDMINFO
+active PDN connection
+释放Sy会话
+重新启动
+授权角色
+运维效率
+pub-pri-label
+角色授权模型
+配置异常
+isis
+VRouter
+时区地区设置命令
+eNodeB
+C405080018
+SMF Candidate
+3GPP 23.060
+Nsmf_PDUSession_NotifyStatus
+上行方向
+数据类型
+C405330135
+RULEID
+NB-IoT
+PPDN
+激活态pdu
+会话管理功能
+RAB建立流程
+GTP-C接口
+UDS按节点统计
+回滚方式
+条件查找
+承载子切片
+bc
+posgroup-id
+关键字段
+NF集标识组
+nc
+流控原理
+BGP-UNICAST模式
+FCSWITCH
+指标查询
+复制修改删除
+config-ospf-1
+Backup Configuration
+C000180114
+UEContextTransferRequest
+Npcf_UEPolicyControl_Create_Res
+3GPP 29.274-980
+切换流程成功
+金银铜控制策略
+Security header type
+SVR
+URLLC
+删除请求
+Tracking Area List
+应用层信息
+PM_Log_Query_Response
+级别告警门限阈值
+C520020003
+邻接局
+failed
+包年包月
+CS切换
+新购
+TCAP层
+LS类型
+内容分发协议
+E-SMLC
+数量统计
+POLICYNREUTRANOTRESTRI
+用户限制检查
+广播完成区域列表
+BSS/RNS
+团体号
+3gppnetwork123.org
+其他网络功能
+NF节点号
+C405150071
+RRA
+pc1.autopgw1
+NSAPI
+新增TCP半连接个数
+raizc01
+adv-router
+寻呼策略
+调用链信息
+路由计算
+flag
+SHOW PRATAPROFILE
+网络边界
+业务逻辑功能
+VPN
+路由寻址
+订阅通知类
+SHOW LOFC
+requirement
+用量阈值事件
+区域标识符
+config-mcast-pim
+4G LTE网络
+VPNID
+hSMFQueryMode
+会话
+New SGSN
+TLS1_2
+327818
+检测告警
+地址配置错误
+ADD POOLBAKMMECFG
+QoS参数
+10秒粒度
+ROUTEGRPID
+Unnlri
+MMEGI
+会话绑定信息
+CDN节点
+修改角色
+配置策略类
+技术支持
+及时同步
+去激活响应消息
+be-value
+IE编码
+S1接口过载控制
+鉴权合法用户
+MME支持区域限制
+out-vlan
+PGW Not Responding
+SET OVERLOADCFG
+StreamUncongestion
+*.lic
+LSA
+分页
+重传报文
+网络名称编码方式
+公开
+Npcf_AMPolicyControl_UpdateNotify_Res
+MDS节点
+失败响应
+ENABLE VERSION
+信令黑名单
+SOMM
+系统间移动
+消息类型匹配
+MFE
+MMEC
+NF注册数据一致性
+Intf
+保持
+SERVERIPADDR
+SRCIP
+POP-D
+Prefence
+SHOW TCPSYNFLOWCONTROL
+SET ROAM PLMN VOLTE POLICY
+流控管理
+applicationError
+157
+PWS控制策略配置
+interval
+物理接口
+FTPPWD
+FCS
+PDU释放类型
+相关配置
+Namf_MT_0
+SGP/IPSP
+TCP
+重试时长(秒)
+PRIORITY_THREE
+transmit_replication_req
+REJECTMODEPFID
+路由区配置
+PWS
+SBINFTYPEARRID
+port-info
+主备路由方式
+show ip pim interface
+升级步长
+SET SBINFOFFICEDETECT
+S6a错误码
+800客服热线
+第三方应用
+DNN列表
+偶联ID
+IPv6前缀范围配置
+C510010086
+SHOW SBIDATASETARRPARAM
+level
+C520220018
+no命令
+实例化失败
+retry-after
+定义
+areaCode
+XX.xlsm
+高优先级业务
+SET NF WORKSTATE
+GnGp
+管理面IP地址
+Backup Security Data
+C405300058
+igp-metric-ignore
+SBIROUTINDARRID
+历史数据
+部署目录
+IGMP报文
+隧道
+配置结果
+SIG
+组网
+容灾系统
+C510630146
+C405180013
+接收数据字节数
+命令默认权限级别
+RNC
+平均
+路由器地址
+区内传输
+keepalive
+Broadcast PLMN Item
+加密算法
+NRF服务器节点配置
+2115633223
+小写字母
+ARP映射
+rsvp
+Common VoNR
+WITHN26
+idc-driver
+zte.com.cn
+主动放弃
+对象名称
+全用户信令跟踪
+C520020134
+C559000046
+应用程序
+隧道模式
+告警码
+Receiver State
+进程号
+周边网元地址
+授权SMS
+业务控制
+连接
+逻辑编号
+意见反馈
+Packet data network
+服务器漏洞扫描
+网络实体
+保活请求次数
+POL_COUNTER_STATUS
+PDP类型
+ZXHOME
+Advertising Router
+enabled
+粗放式管理
+云环境资源等级
+bgp
+VirtIfNbrId
+注册重试次数
+Network Identifier
+基础统计
+ethernet-ad
+对端NF基本信息配置
+专U方案
+最小签约数据
+选择网元
+result files
+FTP服务器
+确认告警
+N2消息
+公共陆地移动网络
+Update报文
+C510630004
+承载修改请求次数
+SFTP服务器配置
+控制策略
+回落请求次数
+SET OLSERVRATIO
+N3接口
+携带
+确认
+静态ND邻居缓存条目
+ZXROSNG
+qFIContainerInformation
+PLMN Support Item
+移动互联网
+删除CG PLMN配置
+DISPATCH PKG
+定时清理
+未携带
+Handover Command
+按容量设置
+hadoop_push.conf
+回落失败次数
+SET RAU QOS UE命令
+查询信令子系统转换
+认证密码
+消息类型和协议不匹配
+Notification
+moOp
+100401
+uMAC_Common_7201
+UEContextTransferResponse
+安全算法
+虚机规格
+combined attach
+C557200020
+Up/Down
+本地网络服务器
+Discovery Response
+健康方面的告警
+Received label
+Npcf_SMPolicyControl_UpdateNotify_Res
+C431060024
+mpls
+Gx
+授权会话
+multicast
+均值
+UPF
+POST
+数据平面开发套件
+v6地址
+csv
+1502
+config-cgn-zte-alarm
+http
+等级
+特殊日志开关
+DNS响应超时
+用户描述
+用户终端
+Error
+入接口
+超时失败
+参数值
+C510040014
+本局配置
+自定义
+直连重选状态码配置
+比例门限
+Backing Service
+DIRECTORY
+路由关联
+Interface
+FILECOUNT
+SHOW SBISCPNODE
+color-lsp
+VPLS
+信元
+Max
+SHOW SBINFTYPEARRID
+交互
+C405580036
+NFStatusNotify_Request
+mobility registration
+一致性状态
+Target system
+配置本地认证
+网络亚健康监测
+同步周期
+主备
+MO
+Linux基金会
+Area Code
+质量服务告警
+DEL DUALCONNRATRSTPLYPRO
+profile-name
+SHOW NAS INTEGCTRL
+Tunnel
+ubas
+by-direction
+UEContextTransferscpfail
+callback-uri
+修改
+AVP相关匹配方法编号2
+INTERRAT
+C405880105
+A
+信息概览
+缺省
+C405140058
+当前值
+操作记录
+HLR无响应
+APN-AMBR
+通知消息
+双连接
+RM
+特定区域
+公共安全
+接口协议
+历史告警
+业务运行
+C510050027
+Ver
+AMF支持全部切片
+ADD CN ASS RAN PARA STATS
+group
+PLMN1
+NF服务版本组编号
+附着的GPRS
+OSPF进程号
+门限设置
+SHOW MASK RULE
+ElasticNet UME
+流参数
+标识:snssaiId
+Exist_MML_Type
+vxlan
+异网NF
+计算与存储分离
+C405630046
+运营商自定义
+untag
+合适的小区
+shape
+EMSPSUS
+策略状态
+3G
+RIM成功日志
+ROLENAME
+电源故障
+定时器名称
+C430110009
+Destination address
+SET GENERALSTATUSCODECFG
+分片标记
+ZUF-59-56-002
+系统可用率
+99-信息元素不存在或未应用
+新建任务
+5G核心网络
+INACTIVE
+NRF服务器分组配置
+EIR
+DIAMETER_TOO_BUSY
+特定资源
+SBIAUSFINFO
+查询信令黑名单用户
+User Message
+1133
+Slice Support List
+通用公共签约标识
+CARRYTZ
+原因值
+Hypertext
+3G用户
+切片信息
+New Radio
+C430110043
+GTP接口拥塞控制
+源虚机
+ESMLC标识
+TCP链路
+NODEID
+链路两端
+user-group
+C-plane
+CDB_ALIAS
+ASP Inactive
+SMSCACHETIMER
+设备组
+网元模型
+表格
+router ID
+空头部值
+AZ
+传送类型
+用户上下文
+ack
+签约信息
+子网Cidr
+VNF
+C000200138
+发送Registration
+周期性路由更新请求次数
+交互类
+三层及以上协议
+PSM
+协议
+流程开始时间
+PacketSrc
+Nudm_UECM_DeregistrationNotification
+moData
+端口认证失败
+规划区
+指标管理
+LOWPRIORITY
+rule命令
+专载
+物理配置数据
+error
+POOLCFG
+TL
+SET SERVICE CONTROL
+HTTP消息收发
+C430170005
+长度截断错误
+服务端PSK配置
+Gb口Rerouting配置
+Service type
+3-Recovery
+VCI值
+安全数据
+时区报告事件
+min-length
+Decline in network transmission quality
+数据缓冲区
+SFTP服务器用户名
+系统支持偶联数
+range
+Presence Reporting Area
+C100540013
+EPS/IMSI attach
+SHOW SBINRFNODE
+5分钟
+回滚区
+更新成功率
+冲突处理
+DEL SBINFSVERSIONARRID
+Identity请求
+MML命令
+写入文件
+用户隐式分离
+主动重平衡查询
+CDNn
+通过准则
+SMContextCreatedData
+默认对等PLMN配置
+检测方式
+VNICQCPU
+C405110012
+Link
+23.502
+激活状态
+状态
+漫游位置区不允许
+TECS客户端
+IP优先级的高3bit
+国家名缩写
+fe80::216:3eff:fe64:105
+内存容量
+C405850003
+告警属性
+初始消息
+snooping功能
+COMID0
+NSE保护路由区配置
+软参
+TIMEZONE
+合法区域接入限制配置
+失败响应消息
+GTP-C流控控制开关
+信令链路
+Routing Area
+过负荷控制信息
+发送失败通知码
+SCENENI
+系统调试
+Ncudr_SystemManagement
+缓存无效
+protocol
+block
+Redirect
+rcc
+弹缩方式
+USUP
+取消限制
+PDN Connectivity Request
+peak
+RETURN_ERROR_ANSWER
+I-SMF
+联合附着失败次数
+微社区
+动态发现
+地址重选择功能
+移动互联网数据业务
+编排规格
+SPRT
+回滚区管理
+NF实例ID
+联动参数
+EMM cause
+策略控制功能
+EMSPlus客户端
+中国移动
+条目生成映射条目
+内核
+udmMMCause
+无线子切片
+Broadcast PLMN List
+异常信令管控
+NETYPE
+Conditional
+DEL CONFIGUREDSNSSAI
+C405320089
+mpls-oam
+Handover Preparation Unsuccessful Transfer
+Homogeneous
+SET LOAD CONTROL REJECT RULE
+METHOD3
+combo42
+SUPWITHN26
+Checksum值
+删除告警过滤规则
+SUCI
+删除VIP
+N1条短消息
+CMAS架构
+EPS附着
+nistp256
+C405510028
+停止染色
+通用配置
+Nudm
+INITSCNUM
+跟踪区码
+IPSTACK
+EMM-REGISTERED
+terminal monitor
+PRIORITY
+网络功能服务
+用量消耗
+ZXUN uMAC-MME
+show configuration candidate
+备用HSS
+myset
+自动清除
+专用网络
+命令处理
+Request Accepted
+value of evi label
+最大连接数
+AVP相关匹配方法类型编号2
+会话上下文
+PDU Session Resource Release Command Transfer
+数据集标识
+C405810118
+35586049
+sd
+本地ip
+流镜像过滤器
+选择功能
+ZXR10 MPU
+事件编号
+专业维护
+NATPORTRANGEPERSC
+SCNUM
+承载修改流程测量
+Oamdata
+MAXLATENCY
+5G业务
+Npcf_UEPolicyControl
+接入限制策略
+接入网络
+启用订阅通知功能
+PGWGTPCOVERLOADCTL
+VPC
+Site Reliability Engineering
+设备能力
+elc
+V5 xGW网元
+接入方式
+SHOW DEFAULT
+C559010055
+多队列中断绑核
+拥塞时长
+动作编号
+VNF APP ID
+CTS
+表名
+Network Function
+localSequenceNumber
+S1-AP
+GT
+EPC地址解析
+优先级值
+Result_Code
+故障现象
+其他协议号
+高峰时期
+查询参数
+Network Service Access Point Identifier
+十六进制字符
+C405070338
+load-balance
+中兴通讯股份有限公司
+All peers
+互斥
+SHOW DNNRPLC
+下行流量
+期望最大丢包率精度
+Served GUAMI List
+OC值
+国内漫游用户平均数
+PRIORINTEG
+route-map
+单个网络切片选择辅助信息
+MOCN
+2114322745
+OCS_Info
+限制阀值
+支付时间
+DEL SBIRESELECTSTACODE
+数据配置一致性
+失败次数
+修改指定VM类型的自愈配置
+*>i
+停止所有eNodeB过负荷
+2001
+流量测量
+Diameter路由组
+BASEDONLINKSTATUS
+dataForwarding
+Gr
+端口清单
+ipsec-transport
+信令数据存储设置
+重新申请License
+GMLC实例标识
+预留带宽
+发送UE策略关联删除
+SET SGS ROUTE
+采集粒度
+配置track对象
+500响应数
+average
+ADD LOADSAMPLE
+PLMN_OPERATOR_TARGET_MS_SERVICE_SUPPORT
+测量类型信息
+querier-election
+status
+百兆以太接口
+BLACKTYPE
+局向检测
+NAME
+SLOTID
+设备维护
+StatusNotification
+N2切换
+AF业务
+age
+远端端口
+C000180331
+注销成功率
+逻辑维护
+Conditional IE error
+PDU
+处理
+C510630049
+统一管理
+商品信息
+自定义处理建议
+security
+Idh
+absolute
+未确认未清除
+HTTP方法优先级
+静态发现
+A点
+用户会话
+UNLOAD
+Tools
+染色规则号
+C464040011
+esi-index
+数据库存储过程
+关键资源
+Last Reporter
+OAuth2
+LTE
+DEL SERVEDAREAS
+去激活会话
+弹性缩容
+C430010204
+VPLMNHPLMNMAPPING
+LabBase
+无效路由
+BACKUP:ID
+数据备份
+删除备份数据
+dead
+P100540008
+telnet
+跟踪区更新
+upCnxState
+多运营商配置
+实例化
+HTTP 429
+端口号
+记录
+信令点
+SBIPEERNFBASEINFO
+发送冲突
+协议状态
+CSG Subscription Expiry
+规格调整
+C558510057
+内部
+MTU字节
+interface-name
+quota-limit
+SCPSWITCH
+Recommended Cells
+Provider认证URL
+Sx会话修改应答
+变化数据
+DNN组参数配置
+端口配置
+Not support
+隧道接口
+INVOKE
+LOCALAPNACCON
+应答回应
+AUSF信息配置
+ELASTICINNERSC
+route-policy-name
+Mobile Country Code
+手动
+MS ID
+峰值速率
+发送分组数
+网络规划
+5GS session management messages
+控制
+优化
+GROUP
+网络发起
+注册更新流程
+TE-P2MP
+删除会话请求次数
+服务类型
+最大TCP资源个数
+会话容量冗余
+mac-vrf
+高价值套餐用户
+track
+TIMEFORDELAY
+超时数
+C520210012
+节点程序
+云平台
+cost值
+分区使用率
+数据触发业务请求失败次数
+ADD SBISRVDISCOVERYMODEPROFILE
+License基础容量
+负荷等级2
+查询
+root delay
+导出全部
+LOG服务
+申请不到资源
+默认网关端口
+ADD MDSEXTERNALNE
+定位客户端类型
+禁止重新选择
+网元节点
+VersionFile
+诊断权限
+Create Bearer Response
+n1SmMsg
+PC
+中兴通讯技术支持工程师
+吊死
+FULLNICODEPLAN
+get_subnetworks
+SHOW IPTRIPLETUPLE
+每路由区
+开源项目
+METHOD
+GW-C
+vlan-id
+拒绝
+PLMN级ConfiguredSnssai配置
+邻居路由器ID
+RTTYPE3
+对端NF服务实例配置
+PLMN ID组编号
+PDP上下文激活请求
+公共陆地移动网标识
+qos-group-id
+Nexthop
+Secure File Transfer Protocol
+ENDTIME
+TMSP
+安全相关配置
+精细化管理
+流量控制
+ZXUN
+可编辑动作
+rdm
+UP
+TLS
+Commercial
+创建者
+表头信息
+数据激活
+uRLLC
+网元过载控制
+Frag
+n393dce
+0-9
+list
+脚本设计器
+丢弃
+One UE订阅方式
+特性配置
+HTTP失败响应
+POLICY
+root dispersion
+PDP type IPv4 only allowed
+IPv6地址组编号
+客户端模板ID
+metric类型
+VNF ID
+DST
+RAR消息
+承载更新请求消息
+QoS
+N15接口
+规则总数
+SHOW NF RETRY AFTER INFO
+NTP服务器
+提交模式
+修改MME与SGW链路
+查询VNFM HTTPS参数
+去注册类型
+计数器ID
+SBIPCFINFO
+负载重平衡
+pw-protector
+业务单元不活动定时器
+推送
+注释
+Rx发起成功率
+请求
+背景知识
+计算
+操作列
+统计分析
+移动网号
+查询原因码模板编号配置
+PCF_Service_config
+拜访地PGW
+Downlink Data Notification
+SERVERPORTSTART
+UntagPorts
+Namf_Communication_0_A
+其他相关配置
+CAMLE用户
+snmp
+Name
+hello消息
+ERROR_TRIGGER_EVENT
+STARTTIME
+低价值不限流量套餐
+precision
+authentication-key
+信号源
+radio
+本地用户
+调整特性
+局间切出请求次数
+GPRS加密
+资源池
+拒绝策略模板编号
+管理门户网站
+shaping-packets-number
+group-address
+特性
+Handover Cancel
+128
+CommonS_TMSP_0
+协议23501
+网元虚拟化标识
+tolcon
+429
+平均时长
+serversd
+IGMP-VRF模式
+用户名
+Internet
+IPSP
+SC流控
+联合路由更新
+序号
+终端用户
+心跳断链
+.xml
+PING帧
+NETCOMPLAINT INFO QUERY
+会话绑定数据
+数据同步
+操作系统应用标识
+IMSI附着
+MOTID
+菜单配置
+立即生效
+保障路由
+备份删除动作
+下行数据传输
+Peer
+VNFC
+C430020028
+老化
+处理部分数据访问请求
+直连检测
+非SMF触发
+SGSNPOOL
+egress
+网络掩码
+正确序列号
+Timeout
+SHOW MTCAPN CONGESTION SWITCH
+最大链路数
+消息转发
+C430000071
+ADD USGROUND
+RAU REJECT
+GI面
+State/PfxRcd
+NFStatusSubscribe_Response
+服务提供者
+TAP Flow
+修改操作
+激活SMSF
+运营门户
+确认申请
+详细原因
+nexthop
+跟踪区码起始
+内局内X2切换
+SLR
+VRF名称
+主用HSS
+TraceData
+分离
+路由指示组参数配置
+SHOW TAI RAI
+忙时
+云化架构
+AS
+C510630138
+SUPI
+统计信息
+ICMP packet
+DOWN
+IPv4
+主MGT容器
+日志审计
+VRUNAME
+Accounting-group
+NID编号
+累加值
+DATA
+携带时区和夏令时字段
+组播组地址
+pimdm-reg
+成功次数
+用户全量数据备份
+SHOW NFS
+Initial SGSN
+同一局向
+查询客户端连接策略配置
+语音中心
+系统设备扩容
+资源树
+AVPINFO
+自愈等待时间
+拥塞小区
+组网单元
+对端
+Gb接入模式
+发现请求
+APN拥塞
+PLMN维度
+默认SSN
+减少SC实例
+BGP实例号
+修改基于号段选择UDM策略
+TDF功能
+本端节点
+C430010212
+Level
+多运营商核心网
+NRF相关
+去注册状态用户数
+3G接入
+ip-precedence
+Replayed
+C405640054
+C520020026
+性能下降
+VALUE
+OPERATERESULT
+互联网标志
+秒
+ManagedElement
+用量监控关键字
+负荷级别
+跨RAT
+数据触发
+服务器空间
+show local-user level
+MATCHORDER
+SRP
+错误提示信息
+ADD TNLACFG
+默认
+interace_name
+execute
+网元服务类型
+可配置
+Routing Area Identifier
+Member links
+广播取消区域列表
+International Mobile Subscriber Identity
+本地流量
+不可用时长
+PLMN_OPERATOR_SERVICES
+漫游切片映射功能
+删除服务名配置
+策略激活标志
+漫游用户上报正常日志
+DEL SBIDOMAINARRPARAM
+注册更新
+SFTP
+remote
+查询TAI组编号配置
+基本信息
+DNS client
+网络知识
+Trace ID
+DEL NFCFG
+通告
+NfInstanceIdCond
+服务发现
+会话创建请求
+用户号码查询
+All prefixes
+单次执行
+十进制点分形式
+备份文件密码
+百毫秒
+PVC参数
+单播包数
+无响应
+物理设备
+C100540006
+taskgroup
+4/5G切换
+RP-ERROR
+C430070012
+C405110007
+Nudm_SubscriberDataManagement
+C520090022
+DEL
+SHOW PMTYPE
+OTAF
+TAU流程
+FILTER
+上报寻呼日志
+set&ltSet ID&gt.&ltNFType&gtset.5gc.mnc&ltMNC&gt.mcc&ltMCC&gt;
+Roaming not allowed
+修改AVP值
+重平衡状态
+性能统计
+存储容量
+新增NF类型组编号配置
+备份开始时间
+packets-number
+局处理
+绑定关系
+EMERGIMSI
+deleted
+合法IPv6地址
+GNBCUUPFunction
+时间粒度
+配置南向接口
+服务发现功能
+CURRENTNUM
+PTMSI
+vl
+差异化映射配置
+参数
+弹窗
+RAT限制列表策略配置
+PRIORITY_FOUR
+uMAC
+NNSF
+SGSN Context Response
+重定位失败次数
+CTF
+小区
+是否上报告警
+非替换类流程冲突且失败日志
+C556050023
+50%
+控制面
+挂起N1N2MessageTransfer
+网络号
+DELETE LOGFILE
+局间流程
+二级过负荷
+计费策略
+系统故障
+基于MTC用户的APN拥塞控制配置
+2114322560
+S1接口
+AVP替换码流
+防御策略
+NF发现参数配置
+接入URL
+Downlink
+3491758085
+capabilities
+资源记录
+查询NRF信息
+状态数据
+SFTP用户密码
+Supported TA Item
+接收ASP DOWN消息次数
+n2SmInfo
+QoS提升
+C430040002
+SET
+命令树
+Discovery Match
+延时处理定时器
+Unspecified
+运行状态
+C405810028
+SHOW FLOW CONTROL BY LINK OUT
+modifiedEbiList
+处理建议
+MINIMUM
+流量过负荷
+跟踪任务
+UE策略关联更新通知
+突发业务
+偶联未激活
+Support
+millisecond
+计费中止通知
+shutdown
+C520220099
+释放承载
+已激活
+SHOW VERSION
+初始注册平均建立时长
+创建时间
+业务量过大
+C510500015
+spf
+灰度升级
+UE上下文
+2534035238
+动态管理
+节点
+原因值映射配置
+优雅关闭
+数据安全
+局内SRNS重定位成功次数
+IPv6-PIM模式
+查看网元状态
+C405070022
+OAM服务
+服务请求
+RCP_QUERY_TYPE_IMSI
+信令传输协议
+profileid
+Endpoint
+clock-seq-low
+2114322676
+MME用户链路测量
+ac-pw-protector
+GPRS接入
+处理能力
+累加值SCTP
+DEL PKG
+网络数据分析功能
+C405160003
+TCP/IP
+TAU Reject
+1XX响应数
+账号有效期
+CPU拥塞门限
+虚链接口
+progress
+GTPCAUSE
+ElasticNet
+ZUF-79-07-008
+29992~29994
+静态隧道配置模式
+C100030035
+MAC失败
+磁盘使用率
+操作树
+router
+OSPFv3
+C433100005
+2114322578
+SHOW ALL NFID
+IfAuthFailure
+协议标识
+Npcf_SMPolicyControl_TerminateNotify_Res
+告警
+签约订阅请求
+C面
+config-lldp
+虚拟路由转发标识
+Reason code
+分布式路由器
+告警恢复
+稳定性
+协议栈
+pduSessionId
+四级告警
+接入策略
+投诉量
+::FFFF
+用户配额状态
+C403520030
+not implemented
+SBITAIRANGEARRID
+延迟恢复时长
+预定义
+默认权限级别
+Target EPC/eNB
+承载修改失败次数
+高过载
+中兴文档微信公众账号
+E1A1
+业务检测
+节电状态
+用户配额
+4009
+GET
+五元组
+下行保证带宽
+Source AMF
+主机名
+C510630047
+Enter configuration commands
+62
+初始SC个数
+监控中心
+共享vRouter
+S-CSCF漫游
+C405630017
+Activate PDP Context Reject
+当前页面
+过载减少指标
+输出
+安全考虑
+容灾演练
+公钥位数
+查询状态数据接管AMF配置
+Check IMEI
+EAP message
+DEL VIPSNSSAICFG
+SET SBISRVDISCOVERYMODEPROFILE
+未知设备标志
+GTPU隧道
+DNS相关
+配置管理
+本网元
+删除回滚区
+表格结束
+PLMNID
+APN Restriction type
+C520030039
+Link State ID
+令牌桶
+Succ
+反确认告警
+debug ip icmp detail
+查询EM屏蔽规则
+SCP/SEPP
+管理控制
+VLR局向标识
+路由重新计算
+内部原因
+服务名配置
+STANDBY
+C405110010
+mask_length
+DRA
+INFO
+CLIENT
+运维复杂度
+本地缓存
+未确认已清除
+SCTP
+no set
+Common AMF/MME/GnGp SGSN
+服务区域编码
+登录超时时间
+记录级配置更改
+网元代理链路断
+染色位置
+Password
+Npcf_UEPolicyControl_Delete_Res
+SHOW_UPLOAD_INFO
+NN标识号
+C520040024
+操作手册
+数据网
+hybrid
+HEX
+Nnrf接口
+统计计数
+修改通用状态码控制
+告警白名单
+FE 1+1
+mhdlc
+LLD
+C405180044
+LOGINOUTRSPTIMER
+HLR主动发送
+配置时间
+SELECTCONVGCAMF
+vipsd
+NAS层协议
+Segment List
+Data Change Notification
+已清除
+响应数
+临时标识
+EVI标签值
+重要系统资源
+返回码
+DEL SBINSIARRPARAM
+SHOW SERVEDAREAS
+SC个数
+ONLY503
+Public Land Mobile Network
+限速
+流程统计
+SUBMIT_RESP
+组网功能
+ARP条目学习
+Subsystem Number
+实时附着用户数
+测试
+show ip pim snooping entry
+SBIPLMNNIDARRID
+C405260003
+保留承载
+n3UlForwardingTnlList
+107局间移动
+漫游切片映射开关
+RAC_NanJing
+时延抖动
+资源名
+PWS-RA
+EMS+管理
+Information element non-existent
+用户特通标志位
+负荷等级1
+具体原因描述
+地址对
+10G以太接口模式
+系统软参
+自动备份
+突发尺寸
+X2
+PCRF
+用户激活
+ATTRID
+label
+AMF标识
+配置条目转换日志
+ZTE NFV LLD(VIM)
+加密无响应
+MT定位
+标准差
+对端AF设备
+执行成功开始时间
+C430180016
+SHOW SCGROUP
+客户端模板号
+C559170027
+删除ConfiguredSnssai配置
+流程失败场景
+特定邻接局业务消息
+安全参数配置
+查询变化表
+应付金额
+N13
+read
+偶联存活期间
+KPI监控
+Profile
+目的虚机
+发送长度
+I-SMF删除
+C405320123
+UNLOADTYPE
+路由
+系统解决方案提供商
+peer dispersion
+本地
+数据网络标识
+全面可视化
+SHOW SVTOS1CAUSE
+业务地址
+S10口
+M3UA数据
+TIME
+config-isakmp-usergroup
+400
+id_rsa.pub
+robustness-variable
+运营商ID
+调试窗口
+NF_DISCOVERY_ERROR
+服务端模板配置
+局间TAU
+ON
+链路状态
+自愈
+C510050028
+总记录数
+用户容量冗余
+GBRDL
+Handover Request Acknowledge
+TCP协议
+PRIORITY_TWO
+消息格式错误
+config-mhdlc-member-if-pos
+附着拒绝
+HO Indication
+位置信息
+15-该TA中没有合适的小区
+缓存上报
+34
+漏洞扫描
+偶联
+净荷数据
+分区描述信息
+网元数据备份
+killall.sh
+结束时间
+非GPRS
+2GCN
+公钥文件名称
+multilink1
+servingScope数组
+状态异常
+对接数据
+SHOW POD
+夏令时
+SET OVERLOAD BASIC PARA
+分片数目
+Jieba分词
+AreaId
+DTI
+Overload Control Information
+总页数
+Relocation
+核心网子切片
+当前数据
+签约数据
+查询任务
+V5UA
+分词预定义词典
+浮点型
+业务名称
+hagp
+时长最小取值
+用户体验
+加解密
+V0
+Routing Area Code
+ASC
+SCTP协议
+临时文件
+ssh
+OCS
+远端IP
+子切片
+eNodeB ID
+套件集名称
+删除CHF主机配置
+无缓存
+月套餐
+关联更新
+性能任务
+Sack报文数
+等待用户面响应超时
+路由表
+65594
+鉴权配置
+全局唯一
+卸载类型
+商用移动预警系统
+show debug linear-aps
+SHOW BACKUPAMF
+role
+非本SC管理
+IMS业务
+设置重点KPI监控条件
+DNAI组编号配置
+GGSN原因
+NAT模式
+告警原因
+posgroup
+MME组ID
+主锚点UPF
+周期执行
+Service Reject
+消息分发服务
+手动配置
+detail
+修改网络标识和时区配置
+show mpls traffic-eng static
+删除会话响应
+连接状态开关
+过负荷业务
+ADD请求
+配置管理页面
+3GPP TS29.500
+系统影响
+全网规划
+PIM-SM
+上行
+CM-CONNECTED状态
+条目
+不匹配
+在线计费
+ContextRsp
+弹性
+per-ES
+Subscriber Permanent Identifier
+POST 5xx Response
+get_selected_mode
+SGSN局内RAU
+黑客
+比特
+vmtype
+基础容量
+提交按钮
+snmp-server
+ADD DEFAULT CONFIG SNSSAI ID
+N8接口
+MDS
+TAG
+Change Reporting Action
+使用的偶联数
+ADD SGSN IMSI AUTH
+资源
+对端设备
+Cause by eNB
+mpls traffic-eng
+杰出贡献奖
+cg_130
+OTHERPROTOCOL
+上报子系统
+SCALIAS
+图层
+区域编码
+MME POOL
+SHOW NRF INFO
+EXPOSURE
+REGCONFLICTN1N2
+access-IP-source
+Npcf_AMPolicyControl_Delete_Res
+PCF
+NRF
+MPPP头格式
+运营商标识符
+RCP
+虚机
+Rx-ASR
+Npcf_SMPolicyControl
+裸金属
+Director
+SHOW SCTP
+by-access-list
+VDC
+IaaS
+GSU虚机
+Discard
+VoNR
+网卡固化
+Nnssf_NSSelection_Get_Response
+虚拟资源
+EPS回落
+SBC
+PCC规则
+Precedence
+Sto-Mgt网络
+Nfs_List
+容灾管理界面
+Daisyseed
+N7会话
+ResourceURI
+SSH登录
+VIP
+Nnrf接口
+中移报表
+SPR
+IMSI
+MSISDN
+IMEISV
+EMSPlus
+Reporting局
+uMAC
+NFS
+VNF弹性
+IPDR
+MDS节点
+SC间
+IaaS云平台
+Logging产品架构
+MMESGSN
+SGSN/MME
+MAN节点
+DPU
+ZXUN
+VNFC
+定时任务
+EMSPlus_HeartBeat_NET
+虚机
+网络ID
+maximum segment size
+数据网络
+configure terminal automatic
+用户位置信息
+任务列表
+complete
+QFI容器序号
+DELETE请求
+NID
+系统对象集合
+应急处理技能
+clock-seq-and-reserved
+sent
+querier
+EM网管
+Over
+跨RAT切换
+GGSN IP地址
+Update Bearer Request
+ipsec-transport-index
+Configuration
+SD
+评价样本数量
+LDAP/LDAPS
+管理员角色
+任务组
+切换消息
+BACKUP:ID=1
+后台导出
+Online KnowledgeBase
+ADD ENB RNC
+容灾恢复策略
+PDU Session Resource to Release List
+SET IPTRIPLETUPLE
+SOAP接入局
+StreamCongestion
+Npcf_PolicyAuthorization_Update
+完整率
+5XX响应数
+主键
+IPv6
+sc-tmsp-mgt-0-0-1-1
+M3UA
+节点组
+重新建立承载
+S1切换
+EREAN
+HR漫游方式
+5gc
+服务器信息
+配置数据库
+VMM部署VRU失败
+Back-Off Time
+ROAMLOGPLY
+系统架构
+neighbor
+eNB Configuration Transfer
+pub-label
+时间跨度
+接收次数
+Leaf Tunnel
+类型
+notification
+单播路由
+容灾策略
+已连接
+修改NRF服务器节点配置
+晚宴
+CAMEL
+UPSC
+PPP
+查询服务区域编码配置
+局交换机
+NF服务消费者
+DEL SOAPACC
+NF
+DSTPORT
+Update GPRS Location Request
+重定向
+DEL SBIGMLCINFO
+2B物联网
+成功响应数量
+Transfer
+万用表
+OAuth
+QoS流
+SBIDNNARRPARAM
+成功率
+Iu过载控制参数
+中断正常
+N1N2RLSCONFLICTHO
+GTP-C
+管理地址配置
+X2口
+SGsAP
+SWITCH_ON
+SET NAS INTEGCTRL
+收集
+套餐名称
+流量过负荷控制功能
+告警码名称
+归属优先级模板组标识
+SHOW USGROUND
+AF应用标识
+容灾倒换
+备份并删除
+commit-mode
+destination-minimum-mask
+业务用户指示语
+Restore
+系统负荷
+用户平面
+设备型号
+入向负荷控制
+接口认证配置
+FTP工具
+请求数
+历史报告
+通信设备制造商
+接入配置类型
+CHF主机配置
+局间注册流程
+Target MME
+配置编号
+IPv4 Internet
+通讯线路故障
+Radius认证
+失败应答消息
+Network Slice Instance
+文档支持邮箱
+会话管理流程
+APN接入控制
+VLAN模式
+配置模式
+RAU流程
+网络时间
+支持区域限制
+Npcf_UEPolicyControl_UpdateNotify_Res
+同步
+EMCBSPLY
+目的邻接局号
+累计时长
+累计流量
+网络单元
+记录缓存
+终端鉴权失败
+会话建立
+DOMAIN
+Virtualized Network Function
+容灾模式
+NSSF相关
+C405850002
+发送次数
+SHOW QUORUM VM
+samgr
+L1 bis
+互通
+N2接口过载控制
+REJECTPF
+负荷控制
+7号信令网络
+离线数据传送
+TCP建链重试次数
+缺省配置
+3490709539
+用户管理
+EIR原因
+AM数据配置
+Extern Network PortIpList
+GNB
+C405510063
+保护方案
+告警描述
+Authentication
+VRF ID
+自动部署工具
+CPU高拥塞门限
+LOCALVRF
+transmit_service_req
+注册请求次数
+信元错误
+SET SUP PGW GGSNIP
+SHOW SBIPLMNSNSSAI
+承载方式
+AVP相关匹配方法类型编号3
+分级告警功能
+例行维护
+命令举例
+C431080009
+计算完整率
+Check IMEI Ack
+MUU
+上传
+分区
+C405870017
+VM仲裁服务管理
+不停地尝试
+instance
+加密配置
+回放
+ALCAP
+RESELIFDEDSMFFAIL
+Operator Identifier
+MPLS-TE模式
+LocalNRF
+REGAREANAME
+Service
+配置TFTPD
+未知设备
+Request/Response
+用户来源
+局域网
+Binding功能
+N26口
+终端类型
+批量删除定时任务
+releasedEbiList
+CAMEL检查释放
+初始注册成功率
+last-member-query-interval
+病毒木马
+BLACK
+REGAREAID
+位置更新
+CSFB流程
+文件转换单元
+网络扩容
+EM
+SBINFSETIDARRID
+NF1
+手动提交
+ZTE-KU5200
+SHOW MHS PARA
+业务提供商
+Subscribe
+网络异常
+待选项列表
+NL2
+INDEX
+PTI在用
+MLD
+RAT限制策略
+Namf_Communication_N1N2MessageTransfer_Res
+事件ID
+消息节流
+Released
+DNS解析请求次数
+输入空闲超时时间
+联合
+C405110028
+DNS server
+nd6
+精细化运营
+默认签约APN带宽配置编号
+SHOW SBICAUSECODEPFID
+N2连接
+查询测量任务
+虚拟化技术
+激活成功
+SHOW LINK INFO
+overload
+2114060323
+对等点
+用户会话数据
+控制项名称
+C405070339
+查询测量对象
+FRR
+PDN Connectivity Accept
+告警样例
+CG PLMN
+变更类型
+长网络名称
+C520220038
+1级路由类型
+对象范围
+备份任务名称
+主备倒换
+LICVALUE
+Cloud Native
+对端协商
+着装要求
+weight
+SHOW SERVERSECPARAM
+Delivery Order控制配置
+LMI
+路由地址信息
+默认LIPA承载
+ADDRPOOLID
+容灾RCP
+确认时间
+持续时间
+PUT
+接口down
+服务数据流
+卸载详细信息
+SBITACRANGEARRID
+删除请求消息
+短消息始呼
+one-minute
+C464050002
+查询计数器
+个人数据隐私
+取消订单
+对端NFProfile
+Change Notification Request
+SHOW NIFRT
+用户下
+LGGSN
+IP_MATCH_PREFER
+短网络名称
+PvidPorts
+终止时间
+Illegal ME
+流量端点
+快速恢复
+GMLC
+微服务
+C405780037
+增加/删除行
+pre-shared-key
+DEL SBINRFNODE
+系统默认值
+REGISTRATION REJECT
+N11保序表
+get_ne_groups
+接口故障
+热备容灾局配置
+NULLSGSNMME
+拒绝策略模板标识
+接通率
+角色描述信息
+CMP实例号
+ADD DCN MME WEIGHT
+NSI配置
+NAS信令
+VMTYPE
+局间信令系统
+HLR失败
+团体串
+容器名
+C100030004
+黑名单
+AUTHENTICATION
+租户ID
+DesAlarmL1Rate
+流镜像
+Compound操作
+IMSI
+受控项编号
+HTTP客户端模板编号
+Caused Code 50
+单一网络切片选择协助信息
+无线侧原因
+服务操作
+SC信息查询管理
+Retry-After
+TENANTID
+VLR
+waittime
+承载
+抢占能力
+释放结果信息
+SSH
+AS安全
+SERVERPROFILE
+SHOW PCFLOCALADDRPOOL
+数据能力
+时区管理
+RTID2
+接口三层IPv4检测状态Down
+发生时间
+HTTP响应状态码
+秒级测量
+备份对象
+配置命令
+开启密码确认
+SHOW SBIDNNARRID
+C430110001
+请求字节数
+SBIPLMNNIDARRPARAM
+共享专用网号
+Public Warning System
+SC弹缩
+QoS映射策略
+响应码
+安全需求
+PBR
+电源插座开关
+严重
+SCOUT
+故障测试
+删除过滤方式
+Routing Area Update Request
+C432010106
+SUPID
+sr-policy
+vAMF
+C430150045
+业务数据
+账号
+ID配置
+0x8
+ARP列表
+LDN
+Complete
+网元数据
+完全共享
+C513010054
+ausf
+C510550014
+路由表项
+操作
+C405060133
+primaryratrstply
+服务名
+Network
+Update Duplicating Parameters
+Session Update Request
+PDU Session Establishment Request
+ASP Active
+debug lldp packets receive
+全局的二层优先级
+RATRESACQPOLICY_SUB
+308 Redirect
+vrf
+父主题
+源端口号
+未知会话标识
+87 SBI消息
+LLD文件
+VxLAN
+申请VDC
+应用管理
+C520020068
+隧道源地址
+Path
+SUPSELDEDSMF
+号段选择
+连接重试
+动态策略控制
+容灾建设
+HTTPS信息
+LUDT
+SET VMTHRESHOLD
+配置更改通知消息
+服务器
+5GMmCapability
+IPv6-OSPF模式
+SHOW SIGIP GTPC
+MsgSend
+Dangerous_Command_config
+每页显示条数
+Rx会话
+接口信息
+回落
+mrIuReleaseReq_M
+C464080068
+备选DNN
+Data
+承载网络
+C430100009
+RAU
+网管客户端
+切换过程
+无线资源分配
+GMLC发现请求
+确定按钮
+接口报文统计计数
+N1N2TRANSCOLLISION
+调测
+Host Aggregate Name
+SHOW SBISRVDISCOVERYMODEPROFILE
+process
+seq
+低过载
+end-policy
+TUP
+C558530032
+Compound请求数量
+以太接口
+注册拒绝消息
+AMF名称
+C510040023
+地址族
+REPLICAID
+附录C
+smfUri
+ZTE Corporation
+ST_OAM_SMF_160
+C559000005
+MSISDN
+查询性能指标
+备份配置数据
+config-vlan-if-gei-0/1/0/1.1
+Windows
+专业术语
+SmContextCreateError
+N6接口
+批量修改用户密码
+监听端口
+NOSPRT
+新增
+Reject
+剩余可用量
+消息码匹配
+删除NF标识配置
+Reset
+KB
+LINKID
+request
+MT服务
+计数器映射表
+taGroupId
+Procedure Transaction Identity
+物理机端口
+协议错误未指定
+条件
+滤波器
+C558530067
+CONTEXT
+AVP相关匹配方法类型编号4
+差错消息
+ASP DOWN
+资源分配成功
+NormalUser
+POPSRV
+侦听端口
+0-128
+DEL SBIPLMNSNSSAI
+节省资源
+NEF
+COMPOUND请求
+DURWAITREGUPD
+TSC标记
+入向业务总量控制
+ETWS
+Offset
+处理失败
+FAR
+NF服务集标识组编号
+SAR-Flags
+LSP保护组
+服务实例
+C520210082
+寻呼成功次数
+S-NSSAI标识
+CSP5BC13EZX
+Community
+TAI Slice Support List
+APNID
+专有承载
+C405130022
+数目
+SBIPLMNIDARRID
+时间戳
+DNS查询失败日志
+服务端PSK集配置
+大写字母
+路由type
+SGW控制面地址
+SOAP服务器
+SET MME SERVICE CONTROL
+HLR ID列表
+length
+SGsAP-DOWNLINK-UNITDATA
+用户面数据报文
+对端网元类型
+Service Unavailable
+上下行流量总和
+savetime
+NFS
+EBGP
+C510280032
+云管理
+局间跟踪区更新
+小时
+动作参数
+CONTROL
+flow
+ADD GTTI
+领域管理员
+POD名称
+hardware-address
+参数作用
+移动性注册请求
+Available Zone Name
+ID请求消息
+系统运行异常
+Expire
+通讯标识
+Nupf_PacketForward_0
+SET SGSN IMSI AUTH
+文本框
+PoV
+idle态用户
+切换取消
+GREAN
+增加自动备份策略
+config-mppp
+子接口别名
+制作日期
+Consumer
+forwarding-table
+计费域
+NF类型
+Control
+增加默认签约APN带宽
+PDN连接流程
+恢复门限
+DNN UPF信息组参数配置
+METHOD1
+Npcf_SMPolicyControl_UpdateNotify
+METHODTYPE4
+Radio Status
+invalid CSG Id
+策略
+最大历史周期
+数据包类型
+S-NSSAI配置
+开源软件
+PLMN Identity
+业务请求拒绝消息
+实例
+附着拒绝消息
+SHOW LICENSE
+Point to Point Protocol over Ethernet
+取值范围
+R98
+0~65535
+服务请求类
+修改|删除|更多
+3305132146
+序列号
+sc-upf-pf
+ULCL
+用户条目
+本地管理距离
+SHOW VMTHRESHOLD
+snooping
+Tracking Area Identity
+DEL USELESSPKG
+C405810057
+接入失败
+RAA
+Bearer Resource Allocation Request
+SBIIPV6ADDRARRID
+更新请求消息
+用户CSG信息
+NR
+Combo MME/Gp SG
+新增TAI范围组参数配置
+命令功能
+表容量
+TMSP平台
+短消息终呼
+隐藏链路
+快速发现
+ADD SUPI CONFIG SNSSAIID LIST
+业务消息
+INTERAMF
+自动添加CPU
+Detach Request
+漫游PLMN VoLTE接入方式配置
+HTTP/2
+ZXUN uMAC-AMF
+SSH服务器类型
+参数域错误
+适用网元
+发现参数
+xml
+VNFM IP地址
+Mobile Network Code
+分区标识
+gNB
+Modify PDP context accept
+更新通知
+RtPrf
+Id
+Responder-only
+EVPN
+dualratrstprofileid
+HOST配置
+参数解释
+C464050001
+一级过负荷
+业务策略参数
+C405180016
+cbs
+上下文健康检查
+SHOW IP COLORING RULE
+Npcf_AMPolicyControl_Create_Res
+网络故障
+C510630100
+路由信息
+N12接口
+采集周期
+mMTC
+spool buf
+网管系统告警
+DEL SBINFTYPEARRID
+在线非PCC用户数
+子图层
+Diameter链路
+不一致
+MMERSTOFLAG
+网元编辑
+本地EM
+磁阵
+SBIIPV6PREFIXRANGEARRPARAM
+distance
+HSS链路
+SRNS
+per-EVI
+identity
+Npcf_PolicyManagement_0
+门户URL
+获取当前位置信息
+ipipv6
+context
+Diameter链路号
+PATCH
+位置名称
+配置数据
+紧急注册失败次数
+pimsm
+INTIALREG
+字典密码
+Nnrf_NFDiscovery_Request
+NSEI
+IP地址
+释放会话请求
+Primary RAT限制策略
+备份MME
+P-CSCF
+204 No Content
+SBINFSSETIDARRID
+GGSN
+CAMEL拒绝
+tag
+使能MPPP头格式
+差分服务代码点
+NPDB
+NF类型组参数配置
+测试阶段
+GBR类型
+网络原因
+Linux
+modulus
+/ubas/ZXUN-EMSPLUS/server/fileupload
+sequence
+sr_policy_key
+PROFILE
+Npcf_PolicyAuthorization_Unsubscribe_Res
+路由器
+RSVP-TE
+MGMT消息
+删除metric配置
+httpCode
+源AMF
+其他事项
+紧急呼叫业务
+262460
+紧急号码
+Gbase数据库
+消息类型不存在
+测量点
+80%
+ORM
+0x11
+SHOW NASRESENDTIMES
+PASS
+P-CSCF恢复通知
+TA
+丢包问题
+SBI接口
+本地保存
+NOT_PREEMPT
+Summary
+SERVICE REJECT
+C510630234
+HTTP_404
+中兴通讯
+关闭
+PVC
+SETID
+pLMMId
+6in4
+SSH Public-key
+C430040064
+CheckSwitch
+取消原因值
+C405870039
+Range
+接收报文
+ZUF-77-17-002
+Iu口接入
+话务量
+ADD DM USGBASE
+FULLUSEBIT7
+用户
+DELETE
+警告消息
+Transform-sets
+标准协议
+UDSA
+uniportal
+3305118001
+Hadoop
+ipsec
+onehcon
+POWERONTIME
+卸载用户数
+定位问题
+故障定位
+C510010078
+网络安全
+TCP ping sever
+DNS QUERY ACK
+登录空闲超时时间
+转发
+流控开关
+key-set
+PIM接口模式
+N7会话
+Backup&Restore
+本地GGSN配置
+NETTYPE
+前缀列表配置标记
+SHOW SGSROUTEGRPSTATUS
+PLMN_OPERATOR_ANONYMOUS_STATISTICS
+间隔时长
+1040
+共享gNB
+报文丢包总数
+NF扩展信息配置
+映射关系
+ADD DUALCONNRATRSTPLYPRO
+log
+NF配置
+鉴权MAC失败次数
+sr-iov
+packaging
+车联网
+write
+CARRYNI
+NOR
+TIMESTAMP
+get_ne_list
+Buffers
+映射配置
+计划性移除操作
+伪线保护组
+CDN2
+groupname
+C510630116
+ipv4Addresses
+网络侧多DNN会话功能
+客户端
+Curve
+对端SCTP模块
+建设地点
+SDN
+系统时间
+横向攻击
+业务处理
+static te_tunnel1
+地址端口
+TECS Director
+C510050005
+业务请求
+Slice Differentiator
+用户流量消费
+DALOCSFTPSRV
+MME测量
+2-6
+命中缓存
+Bearer
+自动查询
+BGP in debugging
+业务质量
+GW-U
+uplinkVolume
+系统内MME间
+专网
+DNN Replacement配置
+minimum-member
+预警信息
+规则支持
+ZXR10
+SOAP接入局配置
+5GMM Cause
+资源配置
+PGWNAME
+RST标志
+控制开关
+vCPU
+高危命令管控配置
+注册注销响应时长
+NFS配置数据
+区域内用户数报告事件
+HTTP 503
+Jieba
+Wait Response Timer
+颗粒
+局向信息
+1级路由编号
+新建指标
+偶联断链
+历史周期
+测量触发点
+percentage
+nbr
+DESCRIPTION
+NOTSUPPORT
+Diameter路由不可用
+Refresh消息
+SMSF
+C430200005
+命令参数解释
+分片
+引用
+JSON文本
+随心钻取分析
+clear arp statistics
+ipAddr
+VNF部署
+点分隔
+对象汇总
+中兴通讯技术支持
+smartgroup2
+发送UE策略关联更新应答次数
+静态RP
+标识:ID
+业务
+3305242917
+过期预警
+SHOW DIAMLINKGROUP
+无线侧失败
+home NSSF
+自动续费
+重选策略配置
+gw1
+鉴权
+上行数据包
+ACCESS_TOKEN_DENIED
+订购数据库审计
+N_M(Pool)
+REQUEST
+Cause Code 96
+网络质量
+SET PROCCOLLISIONPOLICY
+采集方式
+NOT_PREEMPTABLE
+NID组编号配置
+SET MMEIPLOC
+Accept
+链路中断
+网络业务实体
+sNssai-Tai-AMFSet映射配置
+移动始发短消息
+PLMN粒度
+ZUF-76-07-003
+Ingress-Replication
+As path
+tunnel mode
+Mask
+SCCP
+SHORTUSEBIT7
+DNS QUERY REQUEST
+2级路由编号
+MPU
+Distinguisher
+客户端模板配置
+镜像
+module_xxx
+特殊日志
+SET SBINSIARRPARAM
+邻居认证失败
+End of ribs
+SHOW TIMER
+数据分析
+net_mask
+对应关系记录
+存储资源
+代理转发
+100
+子切片模板
+show cps port-limit
+warning message
+Version
+ipv4
+服务器的等级
+MAN
+防护功能
+SGSN间
+SET TNLACFG
+网元名
+信令点类型
+列
+告警类别
+PCSCFRSTOFLAG
+oneper
+R_SUPCODECLIST
+Deactivate PDP Context Request
+每SC最大链路数
+MESSAGE
+业务前台
+说明
+非结构化数据
+分离类型
+C432030007
+C405930017
+RADIUS模块
+非期望的消息
+MPPP
+路由区名称
+弹性配置
+local-distance
+NF配置文件
+设置为1
+RD
+SRVCC
+安全模式拒绝
+安全配置
+流程成功时间
+Location Request
+C405850004
+L2VPN服务
+IGP
+SET MAPERR GMM
+通用趋势分析
+NRF分组服务器
+移动性更新注册请求消息
+SMS消息
+附加属性配置
