@@ -43,7 +43,7 @@ if __name__ == "__main__":
                         help="所需的cache文件路径")
     parser.add_argument('--max_retrieval_num', type=int, default=15,
                         help="最多使用的检索结果数量")
-    parser.add_argument('--llm_concurrent', type=int, default=3)
+    parser.add_argument('--llm_concurrent', type=int, default=5)
     
     args = parser.parse_args()
     
@@ -65,7 +65,7 @@ if __name__ == "__main__":
         exit()
     
     submit_queries = load_query(args.submit_query_path)
-    submit_queries = submit_queries[:5]
+    # submit_queries = submit_queries[:5]
     
     QA_submit = QA(queries=submit_queries,
                    retrievals=submit_retreival_rerank)
@@ -112,7 +112,7 @@ if __name__ == "__main__":
         used_context[ans['id']] = context
         
      # 保存到本地
-    with jsonlines.open(os.path.join(args.cache_path, "submit_result.jsonl"), "w") as json_file: 
+    with jsonlines.open(os.path.join(args.cache_path, "submit_result.jsonl"), "w") as json_file:
         json_file.write_all(answers)
     
    
