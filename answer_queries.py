@@ -107,13 +107,20 @@ if __name__ == "__main__":
     # 按照 id 排序
     answers = sorted(answers, key=lambda x: x['id'])
     
+    # 保存到本地，未处理回答失败的情况
+    with jsonlines.open(os.path.join(args.cache_path, "submit_result_raw.jsonl"), "w") as json_file:
+        json_file.write_all(answers)
+    
     # 判断答案是否合理，尝试重新回答
     for ans in answers:
+        cnt = 0
         while ans['answer']  == "" or len(ans['answer']) < 3:
             print("重新回答：", ans['id'])
             _, context, answer = QA_submit.answer(ans['id'], args.max_retrieval_num)
             ans['answer'] = answer.text
-        used_context[ans['id']] = context
+            cnt += 1
+            if cnt > 5:
+                print("回答失败：", ans['id'])
         
      # 保存到本地
     with jsonlines.open(os.path.join(args.cache_path, "submit_result.jsonl"), "w") as json_file:
