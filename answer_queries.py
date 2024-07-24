@@ -44,6 +44,8 @@ if __name__ == "__main__":
     parser.add_argument('--max_retrieval_num', type=int, default=15,
                         help="最多使用的检索结果数量")
     parser.add_argument('--llm_concurrent', type=int, default=5)
+    parser.add_argument('--llm_name', type=str, default="glm",
+                        help="使用的llm模型名称, glm 或者 deepseek")
     
     args = parser.parse_args()
     
@@ -57,7 +59,8 @@ if __name__ == "__main__":
     # 计算 debug 数据集上的检索性能
     QA_debug = QA(queries=debug_queries,
                   retrievals=debug_retreival_rerank,
-                  id2source=debug_query_source)
+                  id2source=debug_query_source,
+                  llm_name=args.llm_name)
     QA_debug.retrieval_performence(cache_path=args.cache_path)
     
     print("debug数据集上的检索性能计算完毕, 是否继续生成submit结果？(y/n)", end=" ")
@@ -68,7 +71,8 @@ if __name__ == "__main__":
     # submit_queries = submit_queries[:5]
     
     QA_submit = QA(queries=submit_queries,
-                   retrievals=submit_retreival_rerank)
+                   retrievals=submit_retreival_rerank,
+                   llm_name=args.llm_name)
     
     
     # 生成llm回答

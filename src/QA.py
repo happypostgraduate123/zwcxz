@@ -46,7 +46,8 @@ class QA:
     def __init__(self,
                  queries: List[dict],
                  retrievals: dict[dict],
-                 id2source: dict = None):
+                 id2source: dict = None,
+                 llm_name: str = "glm-4"):
         self.query_ids = [q["id"] for q in queries]
         self.query_str = [q["query"] for q in queries]
         self.query_doc = [q["document"] for q in queries]
@@ -62,13 +63,22 @@ class QA:
         
         self.config = config
         
+        self.llm_name = llm_name
         self.LLM = self.load_llm()
     
     def load_llm(self):
-        return OpenAILike(api_key=self.config.GLM_KEY,
-                          model="glm-4",
-                          api_base="https://open.bigmodel.cn/api/paas/v4/",
-                          is_chat_model=True)
+        if self.llm_name == "glm-4":
+            return OpenAILike(api_key=self.config.GLM_KEY,
+                            model="glm-4",
+                            api_base="https://open.bigmodel.cn/api/paas/v4/",
+                            is_chat_model=True)
+        elif self.llm_name == "deepseek":
+            return OpenAILike(api_key=self.config.DS_KEY,
+                              model="deepseek-chat",
+                              api_base="https://api.deepseek.com",
+                              is_chat_model=True)
+        else:
+            raise ValueError(f"Unknown llm name: {self.llm_name}")
         
     def refer_answers(self, id):
         idx = id - 1
