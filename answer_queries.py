@@ -65,7 +65,7 @@ if __name__ == "__main__":
         exit()
     
     submit_queries = load_query(args.submit_query_path)
-    # submit_queries = submit_queries[:5]
+    submit_queries = submit_queries[:5]
     
     QA_submit = QA(queries=submit_queries,
                    retrievals=submit_retreival_rerank)
@@ -87,6 +87,11 @@ if __name__ == "__main__":
     with open(os.path.join(args.cache_path, "llm_answers.pkl"), "wb") as f:
         pkl.dump(llm_answers, f)
     
+    # 将used_context按照id排序
+    used_context = {k: used_context[k] for k in sorted(used_context.keys())}
+    with open(os.path.join(args.cache_path, "used_context.json"), "w", encoding="utf-8") as f:
+        json.dump(used_context, f, ensure_ascii=False, indent=4)
+    
     # 保存结果
     answers = []
     for id, ans in llm_answers.items():
@@ -102,18 +107,12 @@ if __name__ == "__main__":
     for ans in answers:
         while ans['answer']  == "" or len(ans['answer']) < 3:
             print("重新回答：", ans['id'])
-            _, answer, context = QA_submit.answer(ans['id'], args.max_retrieval_num)
+            _, context, answer = QA_submit.answer(ans['id'], args.max_retrieval_num)
             ans['answer'] = answer.text
         used_context[ans['id']] = context
         
      # 保存到本地
     with jsonlines.open(os.path.join(args.cache_path, "submit_result.jsonl"), "w") as json_file: 
         json_file.write_all(answers)
-    
-    # 将used_context按照id排序
-    used_context = {k: used_context[k] for k in sorted(used_context.keys())}
-    # 保存 used_context to json
-    with open(os.path.join(args.cache_path, "used_context.json"), "w") as f:
-        json.dump(used_context, f) 
     
    

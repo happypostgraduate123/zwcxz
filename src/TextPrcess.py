@@ -16,7 +16,7 @@ from types import SimpleNamespace
 
 # 导入高级库
 from llama_index.core import SimpleDirectoryReader
-from llama_index.core.node_parser import SentenceWindowNodeParser, SimpleNodeParser
+from llama_index.core.node_parser import SentenceWindowNodeParser, SimpleNodeParser, SentenceSplitter
 
 def info_len(s: str) -> int:
     """自定义的字符串长度计算函数，移除空格等特殊字符。
@@ -75,11 +75,19 @@ def build_SentenceWindowNodeParser(chunk_size: int = 500,
     Returns:
         SentenceWindowNodeParser: 返回的 node_parser。
     """
-    return SentenceWindowNodeParser.from_defaults(
-        sentence_splitter=split_by_line(chunk_size, overlap),
-        window_size=window_size,
-        window_metadata_key='window',
-        original_text_metadata_key='original_sentence')
+    # return SentenceWindowNodeParser.from_defaults(
+    #     sentence_splitter=split_by_line(chunk_size, overlap),
+    #     window_size=window_size,
+    #     window_metadata_key='window',
+    #     original_text_metadata_key='original_sentence')
+    return SentenceWindowNodeParser(sentence_splitter=SentenceSplitter(separator="\n",
+                                                                       chunk_size=chunk_size,
+                                                                       chunk_overlap=overlap,
+                                                                       paragraph_separator="\n\n",
+                                                                       secondary_chunking_regex="[^，。；！？]+[，。；！？]?").split_text,
+                                    window_size=window_size,
+                                    window_metadata_key='window',
+                                    original_text_metadata_key='original_sentence')
 
 def build_SimpleNodeParser(chunk_size: int = 1024,
                            overlap: int = 20) -> SimpleNodeParser:

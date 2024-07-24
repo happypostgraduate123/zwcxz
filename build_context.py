@@ -33,7 +33,7 @@ def build_cache(args):
     args.cache_root = f"{args.cache_root}/{time_now}-exp_name-{args.exp_tag}"
     if not os.path.exists(args.cache_root):
         os.makedirs(args.cache_root)
-        with open(f"{args.cache_root}/args.json", "w") as f:
+        with open(f"{args.cache_root}/args.json", "w", encoding="utf-8") as f:
             json.dump(vars(args), f, indent=4)
     else:
         old_args = json.load(open(f"{args.cache_root}/args.json", "r"))
@@ -43,7 +43,7 @@ def build_cache(args):
             if input() == "y":
                 os.system(f"rm -rf {args.cache_root}")
                 os.makedirs(args.cache_root)
-                with open(f"{args.cache_root}/args.json", "w") as f:
+                with open(f"{args.cache_root}/args.json", "w", encoding="utf-8") as f:
                     json.dump(vars(args), f, indent=4)
             else:
                 exit()

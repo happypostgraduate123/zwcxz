@@ -66,7 +66,7 @@ class QA:
     
     def load_llm(self):
         return OpenAILike(api_key=self.config.GLM_KEY,
-                          model="glm-4-air",
+                          model="glm-4",
                           api_base="https://open.bigmodel.cn/api/paas/v4/",
                           is_chat_model=True)
         
