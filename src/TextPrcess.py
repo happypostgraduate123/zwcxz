@@ -134,13 +134,14 @@ class Docs_Nodes:
             node_parser = build_SentenceWindowNodeParser(chunk_size=self.chunk_size,
                                                          overlap=self.overlap,
                                                          window_size=self.window_size)
-            print("Building SentenceWindowNodeParser with chunk_size: {} and window_size: {}".format(self.chunk_size,
-                                                                                                     self.window_size))
+            print("构建自定义的SentenceWindowNodeParser，chunk_size: {}、overlap: {}、window_size: {}".format(self.chunk_size,
+                                                                                                            self.overlap,
+                                                                                                            self.window_size))
         elif self.node_parser_name == "simple":
             node_parser = build_SimpleNodeParser(chunk_size=self.chunk_size,
                                                  overlap=self.overlap)
-            print("Building SimpleNodeParser with chunk_size: {} and overlap: {}".format(self.chunk_size,
-                                                                                         self.overlap))
+            print("构建简单的SimpleNodeParser，chunk_size: {}、overlap: {}".format(self.chunk_size,
+                                                                                self.overlap))
             
         else:
             raise ValueError("Node parser name {} not supported.".format(self.node_parser_name))

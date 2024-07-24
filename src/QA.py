@@ -34,7 +34,7 @@ def load_query_source(path:str):
 
 def build_prompt(query:str, retrievals:List, max_retrieval_num:int):
     str_list = ["文档路径：" + res.metadata["file_path"] + "\n" + 
-                res.metadata["text_for_rerank_and_answer"] for res in retrievals]
+                res.metadata["text_for_answer"] for res in retrievals]
     str_list = str_list[:max_retrieval_num]
     
     context_str = "\n----------文档分隔符---------\n".join(str_list)
@@ -66,7 +66,7 @@ class QA:
     
     def load_llm(self):
         return OpenAILike(api_key=self.config.GLM_KEY,
-                          model="glm-4",
+                          model="glm-4-air",
                           api_base="https://open.bigmodel.cn/api/paas/v4/",
                           is_chat_model=True)
         
@@ -81,8 +81,12 @@ class QA:
         query = self.query_str[idx]
         retrievals = self.retrievals_combined[idx] 
         prompt = build_prompt(query, retrievals, max_retrieval_num)
-        ret = self.LLM.complete(prompt)
-        return id, prompt, ret
+        try:
+            ret = self.LLM.complete(prompt)
+            return id, prompt, ret
+        except Exception as e:
+            print(f"Error in answering query {id}: {e}", " 稍后重试")
+            return id, prompt, None
     
 
     def retrieval_performence(self, cache_path:str):

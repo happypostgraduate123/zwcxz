@@ -43,7 +43,7 @@ if __name__ == "__main__":
                         help="所需的cache文件路径")
     parser.add_argument('--max_retrieval_num', type=int, default=15,
                         help="最多使用的检索结果数量")
-    parser.add_argument('--llm_concurrent', type=int, default=5)
+    parser.add_argument('--llm_concurrent', type=int, default=3)
     
     args = parser.parse_args()
     
@@ -102,7 +102,7 @@ if __name__ == "__main__":
     for ans in answers:
         while ans['answer']  == "" or len(ans['answer']) < 3:
             print("重新回答：", ans['id'])
-            _, answer, context = QA_submit.answer(ans['id'])
+            _, answer, context = QA_submit.answer(ans['id'], args.max_retrieval_num)
             ans['answer'] = answer.text
         used_context[ans['id']] = context
         
