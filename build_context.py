@@ -57,8 +57,8 @@ if __name__ == "__main__":
                         help="The root path of the docs. 可以是一个目录，也可以是多个目录")
     parser.add_argument('--node_parser', type=str, default="sentenswindows",
                         help="The parser of the nodes, can be simple or sentenswindows")
-    parser.add_argument('--chunk_size', type=int, default=500)
-    parser.add_argument('--window_size', type=int, default=3)
+    parser.add_argument('--chunk_size', type=int, default=300)
+    parser.add_argument('--window_size', type=int, default=1)
     parser.add_argument('--overlap', type=int, default=300)
     parser.add_argument('--emb_model_path', type=str, default='./maidalun/bce-embedding-base_v1')
     parser.add_argument('--emb_batch_size', type=int, default=256)

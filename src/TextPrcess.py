@@ -27,7 +27,9 @@ def info_len(s: str) -> int:
     Returns:
         int: 字符串长度
     """
-    return len(re.findall(r'\w', s))
+    # return len(re.findall(r'\w', s))
+    # 0724： 暂时放弃上面的做法，因为LLM好像不会对空格等特殊字符进行处理，所以我们以为的短文本，会让LLM超出长度限制。
+    return len(s)
 
 def split_by_line(CHUNK_SIZE: int) -> Callable[[str], List[str]]:
     def split(text: str, CHUNK_SIZE: int = CHUNK_SIZE) -> List[str]:
