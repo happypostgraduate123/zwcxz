@@ -44,7 +44,7 @@ if __name__ == "__main__":
     parser.add_argument('--max_retrieval_num', type=int, default=15,
                         help="最多使用的检索结果数量")
     parser.add_argument('--llm_concurrent', type=int, default=5)
-    parser.add_argument('--llm_name', type=str, default="glm",
+    parser.add_argument('--llm_name', type=str, default="glm-4",
                         help="使用的llm模型名称, glm 或者 deepseek")
     
     args = parser.parse_args()
@@ -52,6 +52,8 @@ if __name__ == "__main__":
     # 加载query
     debug_queries = load_query(args.debug_query_path)
     debug_query_source = load_query_source(args.debug_query_source_path)
+    # if os.path.exists(os.path.join(args.cache_path, f"submit_result_raw_{args.llm_name}.jsonl")):
+    #     submit_result_raw = 
     
     # 加载retrieval_rerank的结果
     debug_retreival_rerank, submit_retreival_rerank = load_retrieval_rerank(args.cache_path)
@@ -68,7 +70,16 @@ if __name__ == "__main__":
         exit()
     
     submit_queries = load_query(args.submit_query_path)
-    # submit_queries = submit_queries[:5]
+    # print(submit_queries)
+    # exit()
+    a = []
+    id = [0, 2, 28, 29, 51, 55, 57, 93]
+    for i in range(len(id)):
+        submit_queries[id[i]]['id'] = i+1
+        a.append(submit_queries[id[i]])
+    submit_queries = a
+    print(submit_queries)
+    # submit_queries = submit_queries
     
     QA_submit = QA(queries=submit_queries,
                    retrievals=submit_retreival_rerank,
@@ -108,7 +119,7 @@ if __name__ == "__main__":
     answers = sorted(answers, key=lambda x: x['id'])
     
     # 保存到本地，未处理回答失败的情况
-    with jsonlines.open(os.path.join(args.cache_path, "submit_result_raw.jsonl"), "w") as json_file:
+    with jsonlines.open(os.path.join(args.cache_path, f"submit_result_raw_{args.llm_name}.jsonl"), "w") as json_file:
         json_file.write_all(answers)
     
     # 判断答案是否合理，尝试重新回答
@@ -123,7 +134,7 @@ if __name__ == "__main__":
                 print("回答失败：", ans['id'])
                 break
      # 保存到本地
-    with jsonlines.open(os.path.join(args.cache_path, "submit_result.jsonl"), "w") as json_file:
+    with jsonlines.open(os.path.join(args.cache_path, f"submit_result_{args.llm_name}.jsonl"), "w") as json_file:
         json_file.write_all(answers)
     
    

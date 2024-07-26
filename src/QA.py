@@ -40,6 +40,7 @@ def build_prompt(query:str, retrievals:List, max_retrieval_num:int):
     context_str = "\n----------文档分隔符---------\n".join(str_list)
     prompt = PromptTemplate(config.QA_TEMPLATE).format(context_str=context_str, query_str=query)
     return prompt
+
     
 
 class QA:

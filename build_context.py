@@ -53,16 +53,16 @@ def build_cache(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Build Context: Parser docs, build retrieval engine, and retrieve and rerank the context.')
-    parser.add_argument('--data_root', type=list, default=["./data/0715"],
+    parser.add_argument('--data_root', type=list, default=["../data/text_with_pic_0715"],
                         help="The root path of the docs. 可以是一个目录，也可以是多个目录")
     parser.add_argument('--node_parser', type=str, default="sentenswindows",
                         help="The parser of the nodes, can be simple or sentenswindows")
     parser.add_argument('--chunk_size', type=int, default=300)
     parser.add_argument('--window_size', type=int, default=1)
     parser.add_argument('--overlap', type=int, default=150)
-    parser.add_argument('--emb_model_path', type=str, default='./maidalun/bce-embedding-base_v1')
+    parser.add_argument('--emb_model_path', type=str, default='../maidalun/bce-embedding-base_v1')
     parser.add_argument('--emb_batch_size', type=int, default=256)
-    parser.add_argument('--rr_model_path', type=str, default='./maidalun/bce-reranker-base_v1')
+    parser.add_argument('--rr_model_path', type=str, default='../maidalun/bce-reranker-base_v1')
     parser.add_argument('--bm25_topk', type=int, default=50)
     parser.add_argument('--emb_topk', type=int, default=50)
     parser.add_argument('--cache_root', type=str, default='./cache')
